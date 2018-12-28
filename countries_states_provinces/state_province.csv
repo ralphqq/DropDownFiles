@@ -1,0 +1,3715 @@
+name,abbreviation,country_id,iso_code
+Alabama,AL,1228,US
+Alaska,AK,1228,US
+Arizona,AZ,1228,US
+Arkansas,AR,1228,US
+California,CA,1228,US
+Colorado,CO,1228,US
+Connecticut,CT,1228,US
+Delaware,DE,1228,US
+Florida,FL,1228,US
+Georgia,GA,1228,US
+Hawaii,HI,1228,US
+Idaho,ID,1228,US
+Illinois,IL,1228,US
+Indiana,IN,1228,US
+Iowa,IA,1228,US
+Kansas,KS,1228,US
+Kentucky,KY,1228,US
+Louisiana,LA,1228,US
+Maine,ME,1228,US
+Maryland,MD,1228,US
+Massachusetts,MA,1228,US
+Michigan,MI,1228,US
+Minnesota,MN,1228,US
+Mississippi,MS,1228,US
+Missouri,MO,1228,US
+Montana,MT,1228,US
+Nebraska,NE,1228,US
+Nevada,NV,1228,US
+New Hampshire,NH,1228,US
+New Jersey,NJ,1228,US
+New Mexico,NM,1228,US
+New York,NY,1228,US
+North Carolina,NC,1228,US
+North Dakota,ND,1228,US
+Ohio,OH,1228,US
+Oklahoma,OK,1228,US
+Oregon,OR,1228,US
+Pennsylvania,PA,1228,US
+Rhode Island,RI,1228,US
+South Carolina,SC,1228,US
+South Dakota,SD,1228,US
+Tennessee,TN,1228,US
+Texas,TX,1228,US
+Utah,UT,1228,US
+Vermont,VT,1228,US
+Virginia,VA,1228,US
+Washington,WA,1228,US
+West Virginia,WV,1228,US
+Wisconsin,WI,1228,US
+Wyoming,WY,1228,US
+District of Columbia,DC,1228,US
+American Samoa,AS,1228,US
+Guam,GU,1228,US
+Northern Mariana Islands,MP,1228,US
+Puerto Rico,PR,1228,US
+Virgin Islands,VI,1228,US
+United States Minor Outlying Islands,UM,1228,US
+Armed Forces Europe,AE,1228,US
+Armed Forces Americas,AA,1228,US
+Armed Forces Pacific,AP,1228,US
+Alberta,AB,1039,CA
+British Columbia,BC,1039,CA
+Manitoba,MB,1039,CA
+New Brunswick,NB,1039,CA
+Newfoundland and Labrador,NL,1039,CA
+Northwest Territories,NT,1039,CA
+Nova Scotia,NS,1039,CA
+Nunavut,NU,1039,CA
+Ontario,ON,1039,CA
+Prince Edward Island,PE,1039,CA
+Quebec,QC,1039,CA
+Saskatchewan,SK,1039,CA
+Yukon Territory,YT,1039,CA
+Maharashtra,MM,1101,IN
+Karnataka,KA,1101,IN
+Andhra Pradesh,AP,1101,IN
+Arunachal Pradesh,AR,1101,IN
+Assam,AS,1101,IN
+Bihar,BR,1101,IN
+Chhattisgarh,CH,1101,IN
+Goa,GA,1101,IN
+Gujarat,GJ,1101,IN
+Haryana,HR,1101,IN
+Himachal Pradesh,HP,1101,IN
+Jammu and Kashmir,JK,1101,IN
+Jharkhand,JH,1101,IN
+Kerala,KL,1101,IN
+Madhya Pradesh,MP,1101,IN
+Manipur,MN,1101,IN
+Meghalaya,ML,1101,IN
+Mizoram,MZ,1101,IN
+Nagaland,NL,1101,IN
+Orissa,OR,1101,IN
+Punjab,PB,1101,IN
+Rajasthan,RJ,1101,IN
+Sikkim,SK,1101,IN
+Tamil Nadu,TN,1101,IN
+Tripura,TR,1101,IN
+Uttaranchal,UL,1101,IN
+Uttar Pradesh,UP,1101,IN
+West Bengal,WB,1101,IN
+Andaman and Nicobar Islands,AN,1101,IN
+Dadra and Nagar Haveli,DN,1101,IN
+Daman and Diu,DD,1101,IN
+Delhi,DL,1101,IN
+Lakshadweep,LD,1101,IN
+Pondicherry,PY,1101,IN
+mazowieckie,MZ,1172,PL
+pomorskie,PM,1172,PL
+dolnośląskie,DS,1172,PL
+kujawsko-pomorskie,KP,1172,PL
+lubelskie,LU,1172,PL
+lubuskie,LB,1172,PL
+łódzkie,LD,1172,PL
+małopolskie,MA,1172,PL
+opolskie,OP,1172,PL
+podkarpackie,PK,1172,PL
+podlaskie,PD,1172,PL
+śląskie,SL,1172,PL
+świętokrzyskie,SK,1172,PL
+warmińsko-mazurskie,WN,1172,PL
+wielkopolskie,WP,1172,PL
+zachodniopomorskie,ZP,1172,PL
+Abu Zaby,AZ,1225,AE
+'Ajman,AJ,1225,AE
+Al Fujayrah,FU,1225,AE
+Ash Shariqah,SH,1225,AE
+Dubayy,DU,1225,AE
+Ra's al Khaymah,RK,1225,AE
+Dac Lac,33,1233,VN
+Umm al Qaywayn,UQ,1225,AE
+Badakhshan,BDS,1001,AF
+Badghis,BDG,1001,AF
+Baghlan,BGL,1001,AF
+Balkh,BAL,1001,AF
+Bamian,BAM,1001,AF
+Farah,FRA,1001,AF
+Faryab,FYB,1001,AF
+Ghazni,GHA,1001,AF
+Ghowr,GHO,1001,AF
+Helmand,HEL,1001,AF
+Herat,HER,1001,AF
+Jowzjan,JOW,1001,AF
+Kabul,KAB,1001,AF
+Kandahar,KAN,1001,AF
+Kapisa,KAP,1001,AF
+Khowst,KHO,1001,AF
+Konar,KNR,1001,AF
+Kondoz,KDZ,1001,AF
+Laghman,LAG,1001,AF
+Lowgar,LOW,1001,AF
+Nangrahar,NAN,1001,AF
+Nimruz,NIM,1001,AF
+Nurestan,NUR,1001,AF
+Oruzgan,ORU,1001,AF
+Paktia,PIA,1001,AF
+Paktika,PKA,1001,AF
+Parwan,PAR,1001,AF
+Samangan,SAM,1001,AF
+Sar-e Pol,SAR,1001,AF
+Takhar,TAK,1001,AF
+Wardak,WAR,1001,AF
+Zabol,ZAB,1001,AF
+Berat,BR,1002,AL
+Bulqizë,BU,1002,AL
+Delvinë,DL,1002,AL
+Devoll,DV,1002,AL
+Dibër,DI,1002,AL
+Durrsës,DR,1002,AL
+Elbasan,EL,1002,AL
+Fier,FR,1002,AL
+Gramsh,GR,1002,AL
+Gjirokastër,GJ,1002,AL
+Has,HA,1002,AL
+Kavajë,KA,1002,AL
+Kolonjë,ER,1002,AL
+Korcë,KO,1002,AL
+Krujë,KR,1002,AL
+Kuçovë,KC,1002,AL
+Kukës,KU,1002,AL
+Kurbin,KB,1002,AL
+Lezhë,LE,1002,AL
+Librazhd,LB,1002,AL
+Lushnjë,LU,1002,AL
+Malësi e Madhe,MM,1002,AL
+Mallakastër,MK,1002,AL
+Mat,MT,1002,AL
+Mirditë,MR,1002,AL
+Peqin,PQ,1002,AL
+Përmet,PR,1002,AL
+Pogradec,PG,1002,AL
+Pukë,PU,1002,AL
+Sarandë,SR,1002,AL
+Skrapar,SK,1002,AL
+Shkodër,SH,1002,AL
+Tepelenë,TE,1002,AL
+Tiranë,TR,1002,AL
+Tropojë,TP,1002,AL
+Vlorë,VL,1002,AL
+Erevan,ER,1011,AM
+Aragacotn,AG,1011,AM
+Ararat,AR,1011,AM
+Armavir,AV,1011,AM
+Gegarkunik',GR,1011,AM
+Kotayk',KT,1011,AM
+Lory,LO,1011,AM
+Sirak,SH,1011,AM
+Syunik',SU,1011,AM
+Tavus,TV,1011,AM
+Vayoc Jor,VD,1011,AM
+Bengo,BGO,1006,AO
+Benguela,BGU,1006,AO
+Bie,BIE,1006,AO
+Cabinda,CAB,1006,AO
+Cuando-Cubango,CCU,1006,AO
+Cuanza Norte,CNO,1006,AO
+Cuanza Sul,CUS,1006,AO
+Cunene,CNN,1006,AO
+Huambo,HUA,1006,AO
+Huila,HUI,1006,AO
+Luanda,LUA,1006,AO
+Lunda Norte,LNO,1006,AO
+Lunda Sul,LSU,1006,AO
+Malange,MAL,1006,AO
+Moxico,MOX,1006,AO
+Namibe,NAM,1006,AO
+Uige,UIG,1006,AO
+Zaire,ZAI,1006,AO
+Capital federal,C,1010,AR
+Buenos Aires,B,1010,AR
+Catamarca,K,1010,AR
+Cordoba,X,1010,AR
+Corrientes,W,1010,AR
+Chaco,H,1010,AR
+Chubut,U,1010,AR
+Entre Rios,E,1010,AR
+Formosa,P,1010,AR
+Jujuy,Y,1010,AR
+La Pampa,L,1010,AR
+Mendoza,M,1010,AR
+Misiones,N,1010,AR
+Neuquen,Q,1010,AR
+Rio Negro,R,1010,AR
+Salta,A,1010,AR
+San Juan,J,1010,AR
+San Luis,D,1010,AR
+Santa Cruz,Z,1010,AR
+Santa Fe,S,1010,AR
+Santiago del Estero,G,1010,AR
+Tierra del Fuego,V,1010,AR
+Tucuman,T,1010,AR
+Burgenland,1,1014,AT
+Kärnten,2,1014,AT
+Niederosterreich,3,1014,AT
+Oberosterreich,4,1014,AT
+Salzburg,5,1014,AT
+Steiermark,6,1014,AT
+Tirol,7,1014,AT
+Vorarlberg,8,1014,AT
+Wien,9,1014,AT
+Australian Antarctic Territory,AAT,1008,AQ
+Australian Capital Territory,ACT,1013,AU
+Northern Territory,NT,1013,AU
+New South Wales,NSW,1013,AU
+Queensland,QLD,1013,AU
+South Australia,SA,1013,AU
+Tasmania,TAS,1013,AU
+Victoria,VIC,1013,AU
+Western Australia,WA,1013,AU
+Naxcivan,NX,1015,AZ
+Ali Bayramli,AB,1015,AZ
+Baki,BA,1015,AZ
+Ganca,GA,1015,AZ
+Lankaran,LA,1015,AZ
+Mingacevir,MI,1015,AZ
+Naftalan,NA,1015,AZ
+Saki,SA,1015,AZ
+Sumqayit,SM,1015,AZ
+Susa,SS,1015,AZ
+Xankandi,XA,1015,AZ
+Yevlax,YE,1015,AZ
+Abseron,ABS,1015,AZ
+Agcabadi,AGC,1015,AZ
+Agdam,AGM,1015,AZ
+Agdas,AGS,1015,AZ
+Agstafa,AGA,1015,AZ
+Agsu,AGU,1015,AZ
+Astara,AST,1015,AZ
+Babak,BAB,1015,AZ
+Balakan,BAL,1015,AZ
+Barda,BAR,1015,AZ
+Beylagan,BEY,1015,AZ
+Bilasuvar,BIL,1015,AZ
+Cabrayll,CAB,1015,AZ
+Calilabad,CAL,1015,AZ
+Culfa,CUL,1015,AZ
+Daskasan,DAS,1015,AZ
+Davaci,DAV,1015,AZ
+Fuzuli,FUZ,1015,AZ
+Gadabay,GAD,1015,AZ
+Goranboy,GOR,1015,AZ
+Goycay,GOY,1015,AZ
+Haciqabul,HAC,1015,AZ
+Imisli,IMI,1015,AZ
+Ismayilli,ISM,1015,AZ
+Kalbacar,KAL,1015,AZ
+Kurdamir,KUR,1015,AZ
+Lacin,LAC,1015,AZ
+Lerik,LER,1015,AZ
+Masalli,MAS,1015,AZ
+Neftcala,NEF,1015,AZ
+Oguz,OGU,1015,AZ
+Ordubad,ORD,1015,AZ
+Qabala,QAB,1015,AZ
+Qax,QAX,1015,AZ
+Qazax,QAZ,1015,AZ
+Qobustan,QOB,1015,AZ
+Quba,QBA,1015,AZ
+Qubadli,QBI,1015,AZ
+Qusar,QUS,1015,AZ
+Saatli,SAT,1015,AZ
+Sabirabad,SAB,1015,AZ
+Sadarak,SAD,1015,AZ
+Sahbuz,SAH,1015,AZ
+Salyan,SAL,1015,AZ
+Samaxi,SMI,1015,AZ
+Samkir,SKR,1015,AZ
+Samux,SMX,1015,AZ
+Sarur,SAR,1015,AZ
+Siyazan,SIY,1015,AZ
+Tartar,TAR,1015,AZ
+Tovuz,TOV,1015,AZ
+Ucar,UCA,1015,AZ
+Xacmaz,XAC,1015,AZ
+Xanlar,XAN,1015,AZ
+Xizi,XIZ,1015,AZ
+Xocali,XCI,1015,AZ
+Xocavand,XVD,1015,AZ
+Yardimli,YAR,1015,AZ
+Zangilan,ZAN,1015,AZ
+Zaqatala,ZAQ,1015,AZ
+Zardab,ZAR,1015,AZ
+Federacija Bosna i Hercegovina,BIH,1026,BA
+Republika Srpska,SRP,1026,BA
+Bagerhat zila,05,1017,BD
+Bandarban zila,01,1017,BD
+Barguna zila,02,1017,BD
+Barisal zila,06,1017,BD
+Bhola zila,07,1017,BD
+Bogra zila,03,1017,BD
+Brahmanbaria zila,04,1017,BD
+Chandpur zila,09,1017,BD
+Chittagong zila,10,1017,BD
+Chuadanga zila,12,1017,BD
+Comilla zila,08,1017,BD
+Cox's Bazar zila,11,1017,BD
+Dhaka zila,13,1017,BD
+Dinajpur zila,14,1017,BD
+Faridpur zila,15,1017,BD
+Feni zila,16,1017,BD
+Gaibandha zila,19,1017,BD
+Gazipur zila,18,1017,BD
+Gopalganj zila,17,1017,BD
+Habiganj zila,20,1017,BD
+Jaipurhat zila,24,1017,BD
+Jamalpur zila,21,1017,BD
+Jessore zila,22,1017,BD
+Jhalakati zila,25,1017,BD
+Jhenaidah zila,23,1017,BD
+Khagrachari zila,29,1017,BD
+Khulna zila,27,1017,BD
+Kishorganj zila,26,1017,BD
+Kurigram zila,28,1017,BD
+Kushtia zila,30,1017,BD
+Lakshmipur zila,31,1017,BD
+Lalmonirhat zila,32,1017,BD
+Madaripur zila,36,1017,BD
+Magura zila,37,1017,BD
+Manikganj zila,33,1017,BD
+Meherpur zila,39,1017,BD
+Moulvibazar zila,38,1017,BD
+Munshiganj zila,35,1017,BD
+Mymensingh zila,34,1017,BD
+Naogaon zila,48,1017,BD
+Narail zila,43,1017,BD
+Narayanganj zila,40,1017,BD
+Narsingdi zila,42,1017,BD
+Natore zila,44,1017,BD
+Nawabganj zila,45,1017,BD
+Netrakona zila,41,1017,BD
+Nilphamari zila,46,1017,BD
+Noakhali zila,47,1017,BD
+Pabna zila,49,1017,BD
+Panchagarh zila,52,1017,BD
+Patuakhali zila,51,1017,BD
+Pirojpur zila,50,1017,BD
+Rajbari zila,53,1017,BD
+Rajshahi zila,54,1017,BD
+Rangamati zila,56,1017,BD
+Rangpur zila,55,1017,BD
+Satkhira zila,58,1017,BD
+Shariatpur zila,62,1017,BD
+Sherpur zila,57,1017,BD
+Sirajganj zila,59,1017,BD
+Sunamganj zila,61,1017,BD
+Sylhet zila,60,1017,BD
+Tangail zila,63,1017,BD
+Thakurgaon zila,64,1017,BD
+Antwerpen,VAN,1020,BE
+Brabant Wallon,WBR,1020,BE
+Hainaut,WHT,1020,BE
+Liege,WLG,1020,BE
+Limburg,VLI,1020,BE
+Luxembourg,WLX,1020,BE
+Namur,WNA,1020,BE
+Oost-Vlaanderen,VOV,1020,BE
+Vlaams-Brabant,VBR,1020,BE
+West-Vlaanderen,VWV,1020,BE
+Bale,BAL,1034,BF
+Bam,BAM,1034,BF
+Banwa,BAN,1034,BF
+Bazega,BAZ,1034,BF
+Bougouriba,BGR,1034,BF
+Boulgou,BLG,1034,BF
+Boulkiemde,BLK,1034,BF
+Comoe,COM,1034,BF
+Ganzourgou,GAN,1034,BF
+Gnagna,GNA,1034,BF
+Gourma,GOU,1034,BF
+Houet,HOU,1034,BF
+Ioba,IOB,1034,BF
+Kadiogo,KAD,1034,BF
+Kenedougou,KEN,1034,BF
+Komondjari,KMD,1034,BF
+Kompienga,KMP,1034,BF
+Kossi,KOS,1034,BF
+Koulpulogo,KOP,1034,BF
+Kouritenga,KOT,1034,BF
+Kourweogo,KOW,1034,BF
+Leraba,LER,1034,BF
+Loroum,LOR,1034,BF
+Mouhoun,MOU,1034,BF
+Nahouri,NAO,1034,BF
+Namentenga,NAM,1034,BF
+Nayala,NAY,1034,BF
+Noumbiel,NOU,1034,BF
+Oubritenga,OUB,1034,BF
+Oudalan,OUD,1034,BF
+Passore,PAS,1034,BF
+Poni,PON,1034,BF
+Sanguie,SNG,1034,BF
+Sanmatenga,SMT,1034,BF
+Seno,SEN,1034,BF
+Siasili,SIS,1034,BF
+Soum,SOM,1034,BF
+Sourou,SOR,1034,BF
+Tapoa,TAP,1034,BF
+Tui,TUI,1034,BF
+Yagha,YAG,1034,BF
+Yatenga,YAT,1034,BF
+Ziro,ZIR,1034,BF
+Zondoma,ZON,1034,BF
+Zoundweogo,ZOU,1034,BF
+Blagoevgrad,01,1033,BG
+Burgas,02,1033,BG
+Dobric,08,1033,BG
+Gabrovo,07,1033,BG
+Haskovo,26,1033,BG
+Jambol,28,1033,BG
+Kardzali,09,1033,BG
+Kjstendil,10,1033,BG
+Lovec,11,1033,BG
+Montana,12,1033,BG
+Pazardzik,13,1033,BG
+Pernik,14,1033,BG
+Pleven,15,1033,BG
+Plovdiv,16,1033,BG
+Razgrad,17,1033,BG
+Ruse,18,1033,BG
+Silistra,19,1033,BG
+Sliven,20,1033,BG
+Smoljan,21,1033,BG
+Sofia,23,1033,BG
+Stara Zagora,24,1033,BG
+Sumen,27,1033,BG
+Targoviste,25,1033,BG
+Varna,03,1033,BG
+Veliko Tarnovo,04,1033,BG
+Vidin,05,1033,BG
+Vraca,06,1033,BG
+Al Hadd,01,1016,BH
+Al Manamah,03,1016,BH
+Al Mintaqah al Gharbiyah,10,1016,BH
+Al Mintagah al Wusta,07,1016,BH
+Al Mintaqah ash Shamaliyah,05,1016,BH
+Al Muharraq,02,1016,BH
+Ar Rifa,09,1016,BH
+Jidd Hafs,04,1016,BH
+Madluat Jamad,12,1016,BH
+Madluat Isa,08,1016,BH
+Mintaqat Juzur tawar,11,1016,BH
+Sitrah,06,1016,BH
+Bubanza,BB,1036,BI
+Bujumbura,BJ,1036,BI
+Bururi,BR,1036,BI
+Cankuzo,CA,1036,BI
+Cibitoke,CI,1036,BI
+Gitega,GI,1036,BI
+Karuzi,KR,1036,BI
+Kayanza,KY,1036,BI
+Makamba,MA,1036,BI
+Muramvya,MU,1036,BI
+Mwaro,MW,1036,BI
+Ngozi,NG,1036,BI
+Rutana,RT,1036,BI
+Ruyigi,RY,1036,BI
+Alibori,AL,1022,BJ
+Atakora,AK,1022,BJ
+Atlantique,AQ,1022,BJ
+Borgou,BO,1022,BJ
+Collines,CO,1022,BJ
+Donga,DO,1022,BJ
+Kouffo,KO,1022,BJ
+Littoral,LI,1022,BJ
+Mono,MO,1022,BJ
+Oueme,OU,1022,BJ
+Plateau,PL,1022,BJ
+Zou,ZO,1022,BJ
+Belait,BE,1032,BN
+Brunei-Muara,BM,1032,BN
+Temburong,TE,1032,BN
+Tutong,TU,1032,BN
+Cochabamba,C,1025,BO
+Chuquisaca,H,1025,BO
+El Beni,B,1025,BO
+La Paz,L,1025,BO
+Oruro,O,1025,BO
+Pando,N,1025,BO
+Potosi,P,1025,BO
+Tarija,T,1025,BO
+Acre,AC,1029,BR
+Alagoas,AL,1029,BR
+Amazonas,AM,1029,BR
+Amapa,AP,1029,BR
+Baia,BA,1029,BR
+Ceara,CE,1029,BR
+Distrito Federal,DF,1029,BR
+Espirito Santo,ES,1029,BR
+Fernando de Noronha,FN,1029,BR
+Goias,GO,1029,BR
+Maranhao,MA,1029,BR
+Minas Gerais,MG,1029,BR
+Mato Grosso do Sul,MS,1029,BR
+Mato Grosso,MT,1029,BR
+Para,PA,1029,BR
+Paraiba,PB,1029,BR
+Pernambuco,PE,1029,BR
+Piaui,PI,1029,BR
+Parana,PR,1029,BR
+Rio de Janeiro,RJ,1029,BR
+Rio Grande do Norte,RN,1029,BR
+Rondonia,RO,1029,BR
+Roraima,RR,1029,BR
+Rio Grande do Sul,RS,1029,BR
+Santa Catarina,SC,1029,BR
+Sergipe,SE,1029,BR
+Sao Paulo,SP,1029,BR
+Tocatins,TO,1029,BR
+Acklins and Crooked Islands,AC,1212,BS
+Bimini,BI,1212,BS
+Cat Island,CI,1212,BS
+Exuma,EX,1212,BS
+Freeport,FP,1212,BS
+Fresh Creek,FC,1212,BS
+Governor's Harbour,GH,1212,BS
+Green Turtle Cay,GT,1212,BS
+Harbour Island,HI,1212,BS
+High Rock,HR,1212,BS
+Inagua,IN,1212,BS
+Kemps Bay,KB,1212,BS
+Long Island,LI,1212,BS
+Marsh Harbour,MH,1212,BS
+Mayaguana,MG,1212,BS
+New Providence,NP,1212,BS
+Nicholls Town and Berry Islands,NB,1212,BS
+Ragged Island,RI,1212,BS
+Rock Sound,RS,1212,BS
+Sandy Point,SP,1212,BS
+San Salvador and Rum Cay,SR,1212,BS
+Bumthang,33,1024,BT
+Chhukha,12,1024,BT
+Dagana,22,1024,BT
+Gasa,GA,1024,BT
+Ha,13,1024,BT
+Lhuentse,44,1024,BT
+Monggar,42,1024,BT
+Paro,11,1024,BT
+Pemagatshel,43,1024,BT
+Punakha,23,1024,BT
+Samdrup Jongkha,45,1024,BT
+Samtee,14,1024,BT
+Sarpang,31,1024,BT
+Thimphu,15,1024,BT
+Trashigang,41,1024,BT
+Trashi Yangtse,TY,1024,BT
+Trongsa,32,1024,BT
+Tsirang,21,1024,BT
+Wangdue Phodrang,24,1024,BT
+Zhemgang,34,1024,BT
+Central,CE,1027,BW
+Ghanzi,GH,1027,BW
+Kgalagadi,KG,1027,BW
+Kgatleng,KL,1027,BW
+Kweneng,KW,1027,BW
+Ngamiland,NG,1027,BW
+North-East,NE,1027,BW
+North-West,NW,1027,BW
+South-East,SE,1027,BW
+Southern,SO,1027,BW
+Brèsckaja voblasc',BR,1019,BY
+Homel'skaja voblasc',HO,1019,BY
+Hrodzenskaja voblasc',HR,1019,BY
+Mahilëuskaja voblasc',MA,1019,BY
+Minskaja voblasc',MI,1019,BY
+Vicebskaja voblasc',VI,1019,BY
+Belize,BZ,1021,BZ
+Cayo,CY,1021,BZ
+Corozal,CZL,1021,BZ
+Orange Walk,OW,1021,BZ
+Stann Creek,SC,1021,BZ
+Toledo,TOL,1021,BZ
+Kinshasa,KN,1050,CD
+Bandundu,BN,1050,CD
+Bas-Congo,BC,1050,CD
+Equateur,EQ,1050,CD
+Haut-Congo,HC,1050,CD
+Kasai-Occidental,KW,1050,CD
+Kasai-Oriental,KE,1050,CD
+Katanga,KA,1050,CD
+Maniema,MA,1050,CD
+Nord-Kivu,NK,1050,CD
+Orientale,OR,1050,CD
+Sud-Kivu,SK,1050,CD
+Bangui,BGF,1042,CF
+Bamingui-Bangoran,BB,1042,CF
+Basse-Kotto,BK,1042,CF
+Haute-Kotto,HK,1042,CF
+Haut-Mbomou,HM,1042,CF
+Kemo,KG,1042,CF
+Lobaye,LB,1042,CF
+Mambere-Kadei,HS,1042,CF
+Mbomou,MB,1042,CF
+Nana-Grebizi,KB,1042,CF
+Nana-Mambere,NM,1042,CF
+Ombella-Mpoko,MP,1042,CF
+Ouaka,UK,1042,CF
+Ouham,AC,1042,CF
+Ouham-Pende,OP,1042,CF
+Sangha-Mbaere,SE,1042,CF
+Vakaga,VR,1042,CF
+Brazzaville,BZV,1051,CG
+Bouenza,11,1051,CG
+Cuvette,8,1051,CG
+Cuvette-Ouest,15,1051,CG
+Kouilou,5,1051,CG
+Lekoumou,2,1051,CG
+Likouala,7,1051,CG
+Niari,9,1051,CG
+Plateaux,14,1051,CG
+Pool,12,1051,CG
+Sangha,13,1051,CG
+Aargau,AG,1205,CH
+Appenzell Innerrhoden,AI,1205,CH
+Appenzell Ausserrhoden,AR,1205,CH
+Bern,BE,1205,CH
+Basel-Landschaft,BL,1205,CH
+Basel-Stadt,BS,1205,CH
+Fribourg,FR,1205,CH
+Geneva,GE,1205,CH
+Glarus,GL,1205,CH
+Graubunden,GR,1205,CH
+Jura,JU,1205,CH
+Luzern,LU,1205,CH
+Neuchatel,NE,1205,CH
+Nidwalden,NW,1205,CH
+Obwalden,OW,1205,CH
+Sankt Gallen,SG,1205,CH
+Schaffhausen,SH,1205,CH
+Solothurn,SO,1205,CH
+Schwyz,SZ,1205,CH
+Thurgau,TG,1205,CH
+Ticino,TI,1205,CH
+Uri,UR,1205,CH
+Vaud,VD,1205,CH
+Valais,VS,1205,CH
+Zug,ZG,1205,CH
+Zurich,ZH,1205,CH
+18 Montagnes,06,1054,CI
+Agnebi,16,1054,CI
+Bas-Sassandra,09,1054,CI
+Denguele,10,1054,CI
+Haut-Sassandra,02,1054,CI
+Lacs,07,1054,CI
+Lagunes,01,1054,CI
+Marahoue,12,1054,CI
+Moyen-Comoe,05,1054,CI
+Nzi-Comoe,11,1054,CI
+Savanes,03,1054,CI
+Sud-Bandama,15,1054,CI
+Sud-Comoe,13,1054,CI
+Vallee du Bandama,04,1054,CI
+Worodouqou,14,1054,CI
+Zanzan,08,1054,CI
+Aisen del General Carlos Ibanez del Campo,AI,1044,CL
+Antofagasta,AN,1044,CL
+Araucania,AR,1044,CL
+Atacama,AT,1044,CL
+Bio-Bio,BI,1044,CL
+Coquimbo,CO,1044,CL
+Libertador General Bernardo O'Higgins,LI,1044,CL
+Los Lagos,LL,1044,CL
+Magallanes,MA,1044,CL
+Maule,ML,1044,CL
+Region Metropolitana de Santiago,RM,1044,CL
+Tarapaca,TA,1044,CL
+Valparaiso,VS,1044,CL
+Adamaoua,AD,1038,CM
+Centre,CE,1038,CM
+East,ES,1038,CM
+Far North,EN,1038,CM
+North,NO,1038,CM
+South,SW,1038,CM
+South-West,SW,1038,CM
+West,OU,1038,CM
+Beijing,11,1045,CN
+Chongqing,50,1045,CN
+Shanghai,31,1045,CN
+Tianjin,12,1045,CN
+Anhui,34,1045,CN
+Fujian,35,1045,CN
+Gansu,62,1045,CN
+Guangdong,44,1045,CN
+Guizhou,52,1045,CN
+Hainan,46,1045,CN
+Hebei,13,1045,CN
+Heilongjiang,23,1045,CN
+Henan,41,1045,CN
+Hubei,42,1045,CN
+Hunan,43,1045,CN
+Jiangsu,32,1045,CN
+Jiangxi,36,1045,CN
+Jilin,22,1045,CN
+Liaoning,21,1045,CN
+Qinghai,63,1045,CN
+Shaanxi,61,1045,CN
+Shandong,37,1045,CN
+Shanxi,14,1045,CN
+Sichuan,51,1045,CN
+Taiwan,71,1045,CN
+Yunnan,53,1045,CN
+Zhejiang,33,1045,CN
+Guangxi,45,1045,CN
+Neia Mongol (mn),15,1045,CN
+Xinjiang,65,1045,CN
+Xizang,54,1045,CN
+Hong Kong,91,1045,CN
+Macau,92,1045,CN
+Distrito Capital de Bogotá,DC,1048,CO
+Amazonea,AMA,1048,CO
+Antioquia,ANT,1048,CO
+Arauca,ARA,1048,CO
+Atlántico,ATL,1048,CO
+Bolívar,BOL,1048,CO
+Boyacá,BOY,1048,CO
+Caldea,CAL,1048,CO
+Caquetá,CAQ,1048,CO
+Casanare,CAS,1048,CO
+Cauca,CAU,1048,CO
+Cesar,CES,1048,CO
+Córdoba,COR,1048,CO
+Cundinamarca,CUN,1048,CO
+Chocó,CHO,1048,CO
+Guainía,GUA,1048,CO
+Guaviare,GUV,1048,CO
+La Guajira,LAG,1048,CO
+Magdalena,MAG,1048,CO
+Meta,MET,1048,CO
+Nariño,NAR,1048,CO
+Norte de Santander,NSA,1048,CO
+Putumayo,PUT,1048,CO
+Quindio,QUI,1048,CO
+Risaralda,RIS,1048,CO
+"San Andrés, Providencia y Santa Catalina",SAP,1048,CO
+Santander,SAN,1048,CO
+Sucre,SUC,1048,CO
+Tolima,TOL,1048,CO
+Valle del Cauca,VAC,1048,CO
+Vaupés,VAU,1048,CO
+Vichada,VID,1048,CO
+Alajuela,A,1053,CR
+Cartago,C,1053,CR
+Guanacaste,G,1053,CR
+Heredia,H,1053,CR
+Limon,L,1053,CR
+Puntarenas,P,1053,CR
+San Jose,SJ,1053,CR
+Camagey,09,1056,CU
+Ciego de `vila,08,1056,CU
+Cienfuegos,06,1056,CU
+Ciudad de La Habana,03,1056,CU
+Granma,12,1056,CU
+Guantanamo,14,1056,CU
+Holquin,11,1056,CU
+La Habana,02,1056,CU
+Las Tunas,10,1056,CU
+Matanzas,04,1056,CU
+Pinar del Rio,01,1056,CU
+Sancti Spiritus,07,1056,CU
+Santiago de Cuba,13,1056,CU
+Villa Clara,05,1056,CU
+Isla de la Juventud,99,1056,CU
+Pinar del Roo,PR,1056,CU
+Ciego de Avila,CA,1056,CU
+Camagoey,CG,1056,CU
+Holgun,HO,1056,CU
+Sancti Spritus,SS,1056,CU
+Municipio Especial Isla de la Juventud,IJ,1056,CU
+Boa Vista,BV,1040,CV
+Brava,BR,1040,CV
+Calheta de Sao Miguel,CS,1040,CV
+Fogo,FO,1040,CV
+Maio,MA,1040,CV
+Mosteiros,MO,1040,CV
+Paul,PA,1040,CV
+Porto Novo,PN,1040,CV
+Praia,PR,1040,CV
+Ribeira Grande,RG,1040,CV
+Sal,SL,1040,CV
+Sao Domingos,SD,1040,CV
+Sao Filipe,SF,1040,CV
+Sao Nicolau,SN,1040,CV
+Sao Vicente,SV,1040,CV
+Tarrafal,TA,1040,CV
+Ammochostos Magusa,04,1057,CY
+Keryneia,06,1057,CY
+Larnaka,03,1057,CY
+Lefkosia,01,1057,CY
+Lemesos,02,1057,CY
+Pafos,05,1057,CY
+Jihočeský kraj,JC,1058,CZ
+Jihomoravský kraj,JM,1058,CZ
+Karlovarský kraj,KA,1058,CZ
+Královéhradecký kraj,KR,1058,CZ
+Liberecký kraj,LI,1058,CZ
+Moravskoslezský kraj,MO,1058,CZ
+Olomoucký kraj,OL,1058,CZ
+Pardubický kraj,PA,1058,CZ
+Plzeňský kraj,PL,1058,CZ
+"Praha, hlavní město",PR,1058,CZ
+Středočeský kraj,ST,1058,CZ
+Ústecký kraj,US,1058,CZ
+Vysočina,VY,1058,CZ
+Zlínský kraj,ZL,1058,CZ
+Baden-Wuerttemberg,BW,1082,DE
+Bayern,BY,1082,DE
+Bremen,HB,1082,DE
+Hamburg,HH,1082,DE
+Hessen,HE,1082,DE
+Niedersachsen,NI,1082,DE
+Nordrhein-Westfalen,NW,1082,DE
+Rheinland-Pfalz,RP,1082,DE
+Saarland,SL,1082,DE
+Schleswig-Holstein,SH,1082,DE
+Berlin,BR,1082,DE
+Brandenburg,BB,1082,DE
+Mecklenburg-Vorpommern,MV,1082,DE
+Sachsen,SN,1082,DE
+Sachsen-Anhalt,ST,1082,DE
+Thueringen,TH,1082,DE
+Ali Sabiah,AS,1060,DJ
+Dikhil,DI,1060,DJ
+Djibouti,DJ,1060,DJ
+Obock,OB,1060,DJ
+Tadjoura,TA,1060,DJ
+Frederiksberg,147,1059,DK
+Copenhagen City,101,1059,DK
+Copenhagen,015,1059,DK
+Frederiksborg,020,1059,DK
+Roskilde,025,1059,DK
+Vestsjælland,030,1059,DK
+Storstrøm,035,1059,DK
+Bornholm,040,1059,DK
+Fyn,042,1059,DK
+South Jutland,050,1059,DK
+Ribe,055,1059,DK
+Vejle,060,1059,DK
+Ringkjøbing,065,1059,DK
+Århus,070,1059,DK
+Viborg,076,1059,DK
+North Jutland,080,1059,DK
+Distrito Nacional (Santo Domingo),01,1062,DO
+Azua,02,1062,DO
+Bahoruco,03,1062,DO
+Barahona,04,1062,DO
+Dajabón,05,1062,DO
+Duarte,06,1062,DO
+El Seybo [El Seibo],08,1062,DO
+Espaillat,09,1062,DO
+Hato Mayor,30,1062,DO
+Independencia,10,1062,DO
+La Altagracia,11,1062,DO
+La Estrelleta [Elias Pina],07,1062,DO
+La Romana,12,1062,DO
+La Vega,13,1062,DO
+Maroia Trinidad Sánchez,14,1062,DO
+Monseñor Nouel,28,1062,DO
+Monte Cristi,15,1062,DO
+Monte Plata,29,1062,DO
+Pedernales,16,1062,DO
+Peravia,17,1062,DO
+Puerto Plata,18,1062,DO
+Salcedo,19,1062,DO
+Samaná,20,1062,DO
+San Cristóbal,21,1062,DO
+San Pedro de Macorís,23,1062,DO
+Sánchez Ramírez,24,1062,DO
+Santiago,25,1062,DO
+Santiago Rodríguez,26,1062,DO
+Valverde,27,1062,DO
+Adrar,01,1003,DZ
+Ain Defla,44,1003,DZ
+Ain Tmouchent,46,1003,DZ
+Alger,16,1003,DZ
+Annaba,23,1003,DZ
+Batna,05,1003,DZ
+Bechar,08,1003,DZ
+Bejaia,06,1003,DZ
+Biskra,07,1003,DZ
+Blida,09,1003,DZ
+Bordj Bou Arreridj,34,1003,DZ
+Bouira,10,1003,DZ
+Boumerdes,35,1003,DZ
+Chlef,02,1003,DZ
+Constantine,25,1003,DZ
+Djelfa,17,1003,DZ
+El Bayadh,32,1003,DZ
+El Oued,39,1003,DZ
+El Tarf,36,1003,DZ
+Ghardaia,47,1003,DZ
+Guelma,24,1003,DZ
+Illizi,33,1003,DZ
+Jijel,18,1003,DZ
+Khenchela,40,1003,DZ
+Laghouat,03,1003,DZ
+Mascara,29,1003,DZ
+Medea,26,1003,DZ
+Mila,43,1003,DZ
+Mostaganem,27,1003,DZ
+Msila,28,1003,DZ
+Naama,45,1003,DZ
+Oran,31,1003,DZ
+Ouargla,30,1003,DZ
+Oum el Bouaghi,04,1003,DZ
+Relizane,48,1003,DZ
+Saida,20,1003,DZ
+Setif,19,1003,DZ
+Sidi Bel Abbes,22,1003,DZ
+Skikda,21,1003,DZ
+Souk Ahras,41,1003,DZ
+Tamanghasset,11,1003,DZ
+Tebessa,12,1003,DZ
+Tiaret,14,1003,DZ
+Tindouf,37,1003,DZ
+Tipaza,42,1003,DZ
+Tissemsilt,38,1003,DZ
+Tizi Ouzou,15,1003,DZ
+Tlemcen,13,1003,DZ
+Azuay,A,1064,EC
+Bolivar,B,1064,EC
+Canar,F,1064,EC
+Carchi,C,1064,EC
+Cotopaxi,X,1064,EC
+Chimborazo,H,1064,EC
+El Oro,O,1064,EC
+Esmeraldas,E,1064,EC
+Galapagos,W,1064,EC
+Guayas,G,1064,EC
+Imbabura,I,1064,EC
+Loja,L,1064,EC
+Los Rios,R,1064,EC
+Manabi,M,1064,EC
+Morona-Santiago,S,1064,EC
+Napo,N,1064,EC
+Orellana,D,1064,EC
+Pastaza,Y,1064,EC
+Pichincha,P,1064,EC
+Sucumbios,U,1064,EC
+Tungurahua,T,1064,EC
+Zamora-Chinchipe,Z,1064,EC
+Harjumsa,37,1069,EE
+Hitumea,39,1069,EE
+Ida-Virumsa,44,1069,EE
+Jogevamsa,49,1069,EE
+Jarvamsa,51,1069,EE
+Lasnemsa,57,1069,EE
+Laane-Virumaa,59,1069,EE
+Polvamea,65,1069,EE
+Parnumsa,67,1069,EE
+Raplamsa,70,1069,EE
+Saaremsa,74,1069,EE
+Tartumsa,7B,1069,EE
+Valgamaa,82,1069,EE
+Viljandimsa,84,1069,EE
+Vorumaa,86,1069,EE
+Ad Daqahllyah,DK,1065,EG
+Al Bahr al Ahmar,BA,1065,EG
+Al Buhayrah,BH,1065,EG
+Al Fayym,FYM,1065,EG
+Al Gharbiyah,GH,1065,EG
+Al Iskandarlyah,ALX,1065,EG
+Al Isma illyah,IS,1065,EG
+Al Jizah,GZ,1065,EG
+Al Minuflyah,MNF,1065,EG
+Al Minya,MN,1065,EG
+Al Qahirah,C,1065,EG
+Al Qalyublyah,KB,1065,EG
+Al Wadi al Jadid,WAD,1065,EG
+Ash Sharqiyah,SHR,1065,EG
+As Suways,SUZ,1065,EG
+Aswan,ASN,1065,EG
+Asyut,AST,1065,EG
+Bani Suwayf,BNS,1065,EG
+Bur Sa'id,PTS,1065,EG
+Dumyat,DT,1065,EG
+Janub Sina',JS,1065,EG
+Kafr ash Shaykh,KFS,1065,EG
+Matruh,MT,1065,EG
+Qina,KN,1065,EG
+Shamal Sina',SIN,1065,EG
+Suhaj,SHG,1065,EG
+Anseba,AN,1068,ER
+Debub,DU,1068,ER
+Debubawi Keyih Bahri [Debub-Keih-Bahri],DK,1068,ER
+Gash-Barka,GB,1068,ER
+Maakel [Maekel],MA,1068,ER
+Semenawi Keyih Bahri [Semien-Keih-Bahri],SK,1068,ER
+Álava,VI,1198,ES
+Albacete,AB,1198,ES
+Alicante,A,1198,ES
+Almería,AL,1198,ES
+Asturias,O,1198,ES
+Ávila,AV,1198,ES
+Badajoz,BA,1198,ES
+Baleares,PM,1198,ES
+Barcelona,B,1198,ES
+Burgos,BU,1198,ES
+Cáceres,CC,1198,ES
+Cádiz,CA,1198,ES
+Cantabria,S,1198,ES
+Castellón,CS,1198,ES
+Ciudad Real,CR,1198,ES
+Cuenca,CU,1198,ES
+Girona [Gerona],GE,1198,ES
+Granada,GR,1198,ES
+Guadalajara,GU,1198,ES
+Guipúzcoa,SS,1198,ES
+Huelva,H,1198,ES
+Huesca,HU,1198,ES
+Jaén,J,1198,ES
+La Coruña,C,1198,ES
+La Rioja,LO,1198,ES
+Las Palmas,GC,1198,ES
+León,LE,1198,ES
+Lleida [Lérida],L,1198,ES
+Lugo,LU,1198,ES
+Madrid,M,1198,ES
+Málaga,MA,1198,ES
+Murcia,MU,1198,ES
+Navarra,NA,1198,ES
+Ourense,OR,1198,ES
+Palencia,P,1198,ES
+Pontevedra,PO,1198,ES
+Salamanca,SA,1198,ES
+Santa Cruz de Tenerife,TF,1198,ES
+Segovia,SG,1198,ES
+Sevilla,SE,1198,ES
+Soria,SO,1198,ES
+Tarragona,T,1198,ES
+Teruel,TE,1198,ES
+Valencia,V,1198,ES
+Valladolid,VA,1198,ES
+Vizcaya,BI,1198,ES
+Zamora,ZA,1198,ES
+Zaragoza,Z,1198,ES
+Ceuta,CE,1198,ES
+Melilla,ML,1198,ES
+Addis Ababa,AA,1070,ET
+Dire Dawa,DD,1070,ET
+Afar,AF,1070,ET
+Amara,AM,1070,ET
+Benshangul-Gumaz,BE,1070,ET
+Gambela Peoples,GA,1070,ET
+Harari People,HA,1070,ET
+Oromia,OR,1070,ET
+Somali,SO,1070,ET
+"Southern Nations, Nationalities and Peoples",SN,1070,ET
+Tigrai,TI,1070,ET
+Eastern,E,1074,FJ
+Northern,N,1074,FJ
+Western,W,1074,FJ
+Rotuma,R,1074,FJ
+Chuuk,TRK,1141,FM
+Kosrae,KSA,1141,FM
+Pohnpei,PNI,1141,FM
+Yap,YAP,1141,FM
+Ain,01,1076,FR
+Aisne,02,1076,FR
+Allier,03,1076,FR
+Alpes-de-Haute-Provence,04,1076,FR
+Alpes-Maritimes,06,1076,FR
+Ardèche,07,1076,FR
+Ardennes,08,1076,FR
+Ariège,09,1076,FR
+Aube,10,1076,FR
+Aude,11,1076,FR
+Aveyron,12,1076,FR
+Bas-Rhin,67,1076,FR
+Bouches-du-Rhône,13,1076,FR
+Calvados,14,1076,FR
+Cantal,15,1076,FR
+Charente,16,1076,FR
+Charente-Maritime,17,1076,FR
+Cher,18,1076,FR
+Corrèze,19,1076,FR
+Corse-du-Sud,20A,1076,FR
+Côte-d'Or,21,1076,FR
+Côtes-d'Armor,22,1076,FR
+Creuse,23,1076,FR
+Deux-Sèvres,79,1076,FR
+Dordogne,24,1076,FR
+Doubs,25,1076,FR
+Drôme,26,1076,FR
+Essonne,91,1076,FR
+Eure,27,1076,FR
+Eure-et-Loir,28,1076,FR
+Finistère,29,1076,FR
+Gard,30,1076,FR
+Gers,32,1076,FR
+Gironde,33,1076,FR
+Haut-Rhin,68,1076,FR
+Haute-Corse,20B,1076,FR
+Haute-Garonne,31,1076,FR
+Haute-Loire,43,1076,FR
+Haute-Saône,70,1076,FR
+Haute-Savoie,74,1076,FR
+Haute-Vienne,87,1076,FR
+Hautes-Alpes,05,1076,FR
+Hautes-Pyrénées,65,1076,FR
+Hauts-de-Seine,92,1076,FR
+Hérault,34,1076,FR
+Indre,36,1076,FR
+Ille-et-Vilaine,35,1076,FR
+Indre-et-Loire,37,1076,FR
+Isère,38,1076,FR
+Landes,40,1076,FR
+Loir-et-Cher,41,1076,FR
+Loire,42,1076,FR
+Loire-Atlantique,44,1076,FR
+Loiret,45,1076,FR
+Lot,46,1076,FR
+Lot-et-Garonne,47,1076,FR
+Lozère,48,1076,FR
+Maine-et-Loire,49,1076,FR
+Manche,50,1076,FR
+Marne,51,1076,FR
+Mayenne,53,1076,FR
+Meurthe-et-Moselle,54,1076,FR
+Meuse,55,1076,FR
+Morbihan,56,1076,FR
+Moselle,57,1076,FR
+Nièvre,58,1076,FR
+Nord,59,1076,FR
+Oise,60,1076,FR
+Orne,61,1076,FR
+Paris,75,1076,FR
+Pas-de-Calais,62,1076,FR
+Puy-de-Dôme,63,1076,FR
+Pyrénées-Atlantiques,64,1076,FR
+Pyrénées-Orientales,66,1076,FR
+Rhône,69,1076,FR
+Saône-et-Loire,71,1076,FR
+Sarthe,72,1076,FR
+Savoie,73,1076,FR
+Seine-et-Marne,77,1076,FR
+Seine-Maritime,76,1076,FR
+Seine-Saint-Denis,93,1076,FR
+Somme,80,1076,FR
+Tarn,81,1076,FR
+Tarn-et-Garonne,82,1076,FR
+Val d'Oise,95,1076,FR
+Territoire de Belfort,90,1076,FR
+Val-de-Marne,94,1076,FR
+Var,83,1076,FR
+Vaucluse,84,1076,FR
+Vendée,85,1076,FR
+Vienne,86,1076,FR
+Vosges,88,1076,FR
+Yonne,89,1076,FR
+Yvelines,78,1076,FR
+Aberdeen City,ABE,1226,GB
+Aberdeenshire,ABD,1226,GB
+Angus,ANS,1226,GB
+Co Antrim,ANT,1226,GB
+Argyll and Bute,AGB,1226,GB
+Co Armagh,ARM,1226,GB
+Bedfordshire,BDF,1226,GB
+Gwent,BGW,1226,GB
+"Bristol, City of",BST,1226,GB
+Buckinghamshire,BKM,1226,GB
+Cambridgeshire,CAM,1226,GB
+Cheshire,CHS,1226,GB
+Clackmannanshire,CLK,1226,GB
+Cornwall,CON,1226,GB
+Cumbria,CMA,1226,GB
+Derbyshire,DBY,1226,GB
+Co Londonderry,DRY,1226,GB
+Devon,DEV,1226,GB
+Dorset,DOR,1226,GB
+Co Down,DOW,1226,GB
+Dumfries and Galloway,DGY,1226,GB
+Dundee City,DND,1226,GB
+County Durham,DUR,1226,GB
+East Ayrshire,EAY,1226,GB
+East Dunbartonshire,EDU,1226,GB
+East Lothian,ELN,1226,GB
+East Renfrewshire,ERW,1226,GB
+East Riding of Yorkshire,ERY,1226,GB
+East Sussex,ESX,1226,GB
+"Edinburgh, City of",EDH,1226,GB
+Na h-Eileanan Siar,ELS,1226,GB
+Essex,ESS,1226,GB
+Falkirk,FAL,1226,GB
+Co Fermanagh,FER,1226,GB
+Fife,FIF,1226,GB
+Glasgow City,GLG,1226,GB
+Gloucestershire,GLS,1226,GB
+Gwynedd,GWN,1226,GB
+Hampshire,HAM,1226,GB
+Herefordshire,HEF,1226,GB
+Hertfordshire,HRT,1226,GB
+Highland,HED,1226,GB
+Inverclyde,IVC,1226,GB
+Isle of Wight,IOW,1226,GB
+Kent,KEN,1226,GB
+Lancashire,LAN,1226,GB
+Leicestershire,LEC,1226,GB
+Midlothian,MLN,1226,GB
+Moray,MRY,1226,GB
+Norfolk,NFK,1226,GB
+North Ayrshire,NAY,1226,GB
+North Lanarkshire,NLK,1226,GB
+North Yorkshire,NYK,1226,GB
+Northamptonshire,NTH,1226,GB
+Northumberland,NBL,1226,GB
+Nottinghamshire,NTT,1226,GB
+Oldham,OLD,1226,GB
+Omagh,OMH,1226,GB
+Orkney Islands,ORR,1226,GB
+Oxfordshire,OXF,1226,GB
+Perth and Kinross,PKN,1226,GB
+Powys,POW,1226,GB
+Renfrewshire,RFW,1226,GB
+Rutland,RUT,1226,GB
+Scottish Borders,SCB,1226,GB
+Shetland Islands,ZET,1226,GB
+Shropshire,SHR,1226,GB
+Somerset,SOM,1226,GB
+South Ayrshire,SAY,1226,GB
+South Gloucestershire,SGC,1226,GB
+South Lanarkshire,SLK,1226,GB
+Staffordshire,STS,1226,GB
+Stirling,STG,1226,GB
+Suffolk,SFK,1226,GB
+Surrey,SRY,1226,GB
+Mid Glamorgan,VGL,1226,GB
+Warwickshire,WAR,1226,GB
+West Dunbartonshire,WDU,1226,GB
+West Lothian,WLN,1226,GB
+West Sussex,WSX,1226,GB
+Wiltshire,WIL,1226,GB
+Worcestershire,WOR,1226,GB
+Ashanti,AH,1083,GH
+Brong-Ahafo,BA,1083,GH
+Greater Accra,AA,1083,GH
+Upper East,UE,1083,GH
+Upper West,UW,1083,GH
+Volta,TV,1083,GH
+Banjul,B,1213,GM
+Lower River,L,1213,GM
+MacCarthy Island,M,1213,GM
+North Bank,N,1213,GM
+Upper River,U,1213,GM
+Beyla,BE,1091,GN
+Boffa,BF,1091,GN
+Boke,BK,1091,GN
+Coyah,CO,1091,GN
+Dabola,DB,1091,GN
+Dalaba,DL,1091,GN
+Dinguiraye,DI,1091,GN
+Dubreka,DU,1091,GN
+Faranah,FA,1091,GN
+Forecariah,FO,1091,GN
+Fria,FR,1091,GN
+Gaoual,GA,1091,GN
+Guekedou,GU,1091,GN
+Kankan,KA,1091,GN
+Kerouane,KE,1091,GN
+Kindia,KD,1091,GN
+Kissidougou,KS,1091,GN
+Koubia,KB,1091,GN
+Koundara,KN,1091,GN
+Kouroussa,KO,1091,GN
+Labe,LA,1091,GN
+Lelouma,LE,1091,GN
+Lola,LO,1091,GN
+Macenta,MC,1091,GN
+Mali,ML,1091,GN
+Mamou,MM,1091,GN
+Mandiana,MD,1091,GN
+Nzerekore,NZ,1091,GN
+Pita,PI,1091,GN
+Siguiri,SI,1091,GN
+Telimele,TE,1091,GN
+Tougue,TO,1091,GN
+Yomou,YO,1091,GN
+Region Continental,C,1067,GQ
+Region Insular,I,1067,GQ
+Annobon,AN,1067,GQ
+Bioko Norte,BN,1067,GQ
+Bioko Sur,BS,1067,GQ
+Centro Sur,CS,1067,GQ
+Kie-Ntem,KN,1067,GQ
+Litoral,LI,1067,GQ
+Wele-Nzas,WN,1067,GQ
+Achaïa,13,1085,GR
+Aitolia-Akarnania,01,1085,GR
+Argolis,11,1085,GR
+Arkadia,12,1085,GR
+Arta,31,1085,GR
+Attiki,A1,1085,GR
+Chalkidiki,64,1085,GR
+Chania,94,1085,GR
+Chios,85,1085,GR
+Dodekanisos,81,1085,GR
+Drama,52,1085,GR
+Evros,71,1085,GR
+Evrytania,05,1085,GR
+Evvoia,04,1085,GR
+Florina,63,1085,GR
+Fokis,07,1085,GR
+Fthiotis,06,1085,GR
+Grevena,51,1085,GR
+Ileia,14,1085,GR
+Imathia,53,1085,GR
+Ioannina,33,1085,GR
+Irakleion,91,1085,GR
+Karditsa,41,1085,GR
+Kastoria,56,1085,GR
+Kavalla,55,1085,GR
+Kefallinia,23,1085,GR
+Kerkyra,22,1085,GR
+Kilkis,57,1085,GR
+Korinthia,15,1085,GR
+Kozani,58,1085,GR
+Kyklades,82,1085,GR
+Lakonia,16,1085,GR
+Larisa,42,1085,GR
+Lasithion,92,1085,GR
+Lefkas,24,1085,GR
+Lesvos,83,1085,GR
+Magnisia,43,1085,GR
+Messinia,17,1085,GR
+Pella,59,1085,GR
+Preveza,34,1085,GR
+Rethymnon,93,1085,GR
+Rodopi,73,1085,GR
+Samos,84,1085,GR
+Serrai,62,1085,GR
+Thesprotia,32,1085,GR
+Thessaloniki,54,1085,GR
+Trikala,44,1085,GR
+Voiotia,03,1085,GR
+Xanthi,72,1085,GR
+Zakynthos,21,1085,GR
+Agio Oros,69,1085,GR
+Alta Verapez,AV,1090,GT
+Baja Verapez,BV,1090,GT
+Chimaltenango,CM,1090,GT
+Chiquimula,CQ,1090,GT
+El Progreso,PR,1090,GT
+Escuintla,ES,1090,GT
+Guatemala,GU,1090,GT
+Huehuetenango,HU,1090,GT
+Izabal,IZ,1090,GT
+Jalapa,JA,1090,GT
+Jutiapa,JU,1090,GT
+Peten,PE,1090,GT
+Quetzaltenango,QZ,1090,GT
+Quiche,QC,1090,GT
+Reta.thuleu,RE,1090,GT
+Sacatepequez,SA,1090,GT
+San Marcos,SM,1090,GT
+Santa Rosa,SR,1090,GT
+Solol6,SO,1090,GT
+Suchitepequez,SU,1090,GT
+Totonicapan,TO,1090,GT
+Zacapa,ZA,1090,GT
+Bissau,BS,1092,GW
+Bafata,BA,1092,GW
+Biombo,BM,1092,GW
+Bolama,BL,1092,GW
+Cacheu,CA,1092,GW
+Gabu,GA,1092,GW
+Oio,OI,1092,GW
+Quloara,QU,1092,GW
+Tombali S,TO,1092,GW
+Barima-Waini,BA,1093,GY
+Cuyuni-Mazaruni,CU,1093,GY
+Demerara-Mahaica,DE,1093,GY
+East Berbice-Corentyne,EB,1093,GY
+Essequibo Islands-West Demerara,ES,1093,GY
+Mahaica-Berbice,MA,1093,GY
+Pomeroon-Supenaam,PM,1093,GY
+Potaro-Siparuni,PT,1093,GY
+Upper Demerara-Berbice,UD,1093,GY
+Upper Takutu-Upper Essequibo,UT,1093,GY
+Atlantida,AT,1097,HN
+Colon,CL,1097,HN
+Comayagua,CM,1097,HN
+Copan,CP,1097,HN
+Cortes,CR,1097,HN
+Choluteca,CH,1097,HN
+El Paraiso,EP,1097,HN
+Francisco Morazan,FM,1097,HN
+Gracias a Dios,GD,1097,HN
+Intibuca,IN,1097,HN
+Islas de la Bahia,IB,1097,HN
+Lempira,LE,1097,HN
+Ocotepeque,OC,1097,HN
+Olancho,OL,1097,HN
+Santa Barbara,SB,1097,HN
+Valle,VA,1097,HN
+Yoro,YO,1097,HN
+Bjelovarsko-bilogorska zupanija,07,1055,HR
+Brodsko-posavska zupanija,12,1055,HR
+Dubrovacko-neretvanska zupanija,19,1055,HR
+Istarska zupanija,18,1055,HR
+Karlovacka zupanija,04,1055,HR
+Koprivnickco-krizevacka zupanija,06,1055,HR
+Krapinako-zagorska zupanija,02,1055,HR
+Licko-senjska zupanija,09,1055,HR
+Medimurska zupanija,20,1055,HR
+Osjecko-baranjska zupanija,14,1055,HR
+Pozesko-slavonska zupanija,11,1055,HR
+Primorsko-goranska zupanija,08,1055,HR
+Sisacko-moelavacka Iupanija,03,1055,HR
+Splitako-dalmatinska zupanija,17,1055,HR
+Sibenako-kninska zupanija,15,1055,HR
+Varaidinska zupanija,05,1055,HR
+VirovitiEko-podravska zupanija,10,1055,HR
+VuRovarako-srijemska zupanija,16,1055,HR
+Zadaraka,13,1055,HR
+Zagrebacka zupanija,01,1055,HR
+Grande-Anse,GA,1094,HT
+Nord-Est,NE,1094,HT
+Nord-Ouest,NO,1094,HT
+Ouest,OU,1094,HT
+Sud,SD,1094,HT
+Sud-Est,SE,1094,HT
+Budapest,BU,1099,HU
+Bács-Kiskun,BK,1099,HU
+Baranya,BA,1099,HU
+Békés,BE,1099,HU
+Borsod-Abaúj-Zemplén,BZ,1099,HU
+Csongrád,CS,1099,HU
+Fejér,FE,1099,HU
+Győr-Moson-Sopron,GS,1099,HU
+Hajdu-Bihar,HB,1099,HU
+Heves,HE,1099,HU
+Jász-Nagykun-Szolnok,JN,1099,HU
+Komárom-Esztergom,KE,1099,HU
+Nográd,NO,1099,HU
+Pest,PE,1099,HU
+Somogy,SO,1099,HU
+Szabolcs-Szatmár-Bereg,SZ,1099,HU
+Tolna,TO,1099,HU
+Vas,VA,1099,HU
+Veszprém,VE,1099,HU
+Zala,ZA,1099,HU
+Békéscsaba,BC,1099,HU
+Debrecen,DE,1099,HU
+Dunaújváros,DU,1099,HU
+Eger,EG,1099,HU
+Győr,GY,1099,HU
+Hódmezővásárhely,HV,1099,HU
+Kaposvár,KV,1099,HU
+Kecskemét,KM,1099,HU
+Miskolc,MI,1099,HU
+Nagykanizsa,NK,1099,HU
+Nyiregyháza,NY,1099,HU
+Pécs,PS,1099,HU
+Salgótarján,ST,1099,HU
+Sopron,SN,1099,HU
+Szeged,SD,1099,HU
+Székesfehérvár,SF,1099,HU
+Szekszárd,SS,1099,HU
+Szolnok,SK,1099,HU
+Szombathely,SH,1099,HU
+Tatabánya,TB,1099,HU
+Zalaegerszeg,ZE,1099,HU
+Bali,BA,1102,ID
+Bangka Belitung,BB,1102,ID
+Banten,BT,1102,ID
+Bengkulu,BE,1102,ID
+Gorontalo,GO,1102,ID
+Irian Jaya,IJ,1102,ID
+Jambi,JA,1102,ID
+Jawa Barat,JB,1102,ID
+Jawa Tengah,JT,1102,ID
+Jawa Timur,JI,1102,ID
+Kalimantan Barat,KB,1102,ID
+Kalimantan Timur,KT,1102,ID
+Kalimantan Selatan,KS,1102,ID
+Kepulauan Riau,KR,1102,ID
+Lampung,LA,1102,ID
+Maluku,MA,1102,ID
+Maluku Utara,MU,1102,ID
+Nusa Tenggara Barat,NB,1102,ID
+Nusa Tenggara Timur,NT,1102,ID
+Papua,PA,1102,ID
+Riau,RI,1102,ID
+Sulawesi Selatan,SN,1102,ID
+Sulawesi Tengah,ST,1102,ID
+Sulawesi Tenggara,SG,1102,ID
+Sulawesi Utara,SA,1102,ID
+Sumatra Barat,SB,1102,ID
+Sumatra Selatan,SS,1102,ID
+Sumatera Utara,SU,1102,ID
+Jakarta Raya,JK,1102,ID
+Aceh,AC,1102,ID
+Yogyakarta,YO,1102,ID
+Cork,C,1105,IE
+Clare,CE,1105,IE
+Cavan,CN,1105,IE
+Carlow,CW,1105,IE
+Dublin,D,1105,IE
+Donegal,DL,1105,IE
+Galway,G,1105,IE
+Kildare,KE,1105,IE
+Kilkenny,KK,1105,IE
+Kerry,KY,1105,IE
+Longford,LD,1105,IE
+Louth,LH,1105,IE
+Limerick,LK,1105,IE
+Leitrim,LM,1105,IE
+Laois,LS,1105,IE
+Meath,MH,1105,IE
+Monaghan,MN,1105,IE
+Mayo,MO,1105,IE
+Offaly,OY,1105,IE
+Roscommon,RN,1105,IE
+Sligo,SO,1105,IE
+Tipperary,TA,1105,IE
+Waterford,WD,1105,IE
+Westmeath,WH,1105,IE
+Wicklow,WW,1105,IE
+Wexford,WX,1105,IE
+HaDarom,D,1106,IL
+HaMerkaz,M,1106,IL
+HaZafon,Z,1106,IL
+Haifa,HA,1106,IL
+Tel-Aviv,TA,1106,IL
+Jerusalem,JM,1106,IL
+Al Anbar,AN,1104,IQ
+"Al Ba,rah",BA,1104,IQ
+Al Muthanna,MU,1104,IQ
+Al Qadisiyah,QA,1104,IQ
+An Najef,NA,1104,IQ
+Arbil,AR,1104,IQ
+As Sulaymaniyah,SW,1104,IQ
+At Ta'mim,TS,1104,IQ
+Babil,BB,1104,IQ
+Baghdad,BG,1104,IQ
+Dahuk,DA,1104,IQ
+Dhi Qar,DQ,1104,IQ
+Diyala,DI,1104,IQ
+Karbala',KA,1104,IQ
+Maysan,MA,1104,IQ
+Ninawa,NI,1104,IQ
+Salah ad Din,SD,1104,IQ
+Wasit,WA,1104,IQ
+Ardabil,03,1103,IR
+Azarbayjan-e Gharbi,02,1103,IR
+Azarbayjan-e Sharqi,01,1103,IR
+Bushehr,06,1103,IR
+Chahar Mahall va Bakhtiari,08,1103,IR
+Esfahan,04,1103,IR
+Fars,14,1103,IR
+Gilan,19,1103,IR
+Golestan,27,1103,IR
+Hamadan,24,1103,IR
+Hormozgan,23,1103,IR
+Iiam,05,1103,IR
+Kerman,15,1103,IR
+Kermanshah,17,1103,IR
+Khorasan,09,1103,IR
+Khuzestan,10,1103,IR
+Kohjiluyeh va Buyer Ahmad,18,1103,IR
+Kordestan,16,1103,IR
+Lorestan,20,1103,IR
+Markazi,22,1103,IR
+Mazandaran,21,1103,IR
+Qazvin,28,1103,IR
+Qom,26,1103,IR
+Semnan,12,1103,IR
+Sistan va Baluchestan,13,1103,IR
+Tehran,07,1103,IR
+Yazd,25,1103,IR
+Zanjan,11,1103,IR
+Austurland,7,1100,IS
+Hofuoborgarsvaeoi utan Reykjavikur,1,1100,IS
+Norourland eystra,6,1100,IS
+Norourland vestra,5,1100,IS
+Reykjavik,0,1100,IS
+Suourland,8,1100,IS
+Suournes,2,1100,IS
+Vestfirolr,4,1100,IS
+Vesturland,3,1100,IS
+Agrigento,AG,1107,IT
+Alessandria,AL,1107,IT
+Ancona,AN,1107,IT
+Aosta,AO,1107,IT
+Arezzo,AR,1107,IT
+Ascoli Piceno,AP,1107,IT
+Asti,AT,1107,IT
+Avellino,AV,1107,IT
+Bari,BA,1107,IT
+Belluno,BL,1107,IT
+Benevento,BN,1107,IT
+Bergamo,BG,1107,IT
+Biella,BI,1107,IT
+Bologna,BO,1107,IT
+Bolzano,BZ,1107,IT
+Brescia,BS,1107,IT
+Brindisi,BR,1107,IT
+Cagliari,CA,1107,IT
+Caltanissetta,CL,1107,IT
+Campobasso,CB,1107,IT
+Caserta,CE,1107,IT
+Catania,CT,1107,IT
+Catanzaro,CZ,1107,IT
+Chieti,CH,1107,IT
+Como,CO,1107,IT
+Cosenza,CS,1107,IT
+Cremona,CR,1107,IT
+Crotone,KR,1107,IT
+Cuneo,CN,1107,IT
+Enna,EN,1107,IT
+Ferrara,FE,1107,IT
+Firenze,FI,1107,IT
+Foggia,FG,1107,IT
+Forlì-Cesena,FC,1107,IT
+Frosinone,FR,1107,IT
+Genova,GE,1107,IT
+Gorizia,GO,1107,IT
+Grosseto,GR,1107,IT
+Imperia,IM,1107,IT
+Isernia,IS,1107,IT
+L'Aquila,AQ,1107,IT
+La Spezia,SP,1107,IT
+Latina,LT,1107,IT
+Lecce,LE,1107,IT
+Lecco,LC,1107,IT
+Livorno,LI,1107,IT
+Lodi,LO,1107,IT
+Lucca,LU,1107,IT
+Macerata,MC,1107,IT
+Mantova,MN,1107,IT
+Massa-Carrara,MS,1107,IT
+Matera,MT,1107,IT
+Messina,ME,1107,IT
+Milano,MI,1107,IT
+Modena,MO,1107,IT
+Napoli,NA,1107,IT
+Novara,NO,1107,IT
+Nuoro,NU,1107,IT
+Oristano,OR,1107,IT
+Padova,PD,1107,IT
+Palermo,PA,1107,IT
+Parma,PR,1107,IT
+Pavia,PV,1107,IT
+Perugia,PG,1107,IT
+Pesaro e Urbino,PU,1107,IT
+Pescara,PE,1107,IT
+Piacenza,PC,1107,IT
+Pisa,PI,1107,IT
+Pistoia,PT,1107,IT
+Pordenone,PN,1107,IT
+Potenza,PZ,1107,IT
+Prato,PO,1107,IT
+Ragusa,RG,1107,IT
+Ravenna,RA,1107,IT
+Reggio Calabria,RC,1107,IT
+Reggio Emilia,RE,1107,IT
+Rieti,RI,1107,IT
+Rimini,RN,1107,IT
+Roma,RM,1107,IT
+Rovigo,RO,1107,IT
+Salerno,SA,1107,IT
+Sassari,SS,1107,IT
+Savona,SV,1107,IT
+Siena,SI,1107,IT
+Siracusa,SR,1107,IT
+Sondrio,SO,1107,IT
+Taranto,TA,1107,IT
+Teramo,TE,1107,IT
+Terni,TR,1107,IT
+Torino,TO,1107,IT
+Trapani,TP,1107,IT
+Trento,TN,1107,IT
+Treviso,TV,1107,IT
+Trieste,TS,1107,IT
+Udine,UD,1107,IT
+Varese,VA,1107,IT
+Venezia,VE,1107,IT
+Verbano-Cusio-Ossola,VB,1107,IT
+Vercelli,VC,1107,IT
+Verona,VR,1107,IT
+Vibo Valentia,VV,1107,IT
+Vicenza,VI,1107,IT
+Viterbo,VT,1107,IT
+Aichi,23,1109,JP
+Akita,05,1109,JP
+Aomori,02,1109,JP
+Chiba,12,1109,JP
+Ehime,38,1109,JP
+Fukui,18,1109,JP
+Fukuoka,40,1109,JP
+Fukusima,07,1109,JP
+Gifu,21,1109,JP
+Gunma,10,1109,JP
+Hiroshima,34,1109,JP
+Hokkaido,01,1109,JP
+Hyogo,28,1109,JP
+Ibaraki,08,1109,JP
+Ishikawa,17,1109,JP
+Iwate,03,1109,JP
+Kagawa,37,1109,JP
+Kagoshima,46,1109,JP
+Kanagawa,14,1109,JP
+Kochi,39,1109,JP
+Kumamoto,43,1109,JP
+Kyoto,26,1109,JP
+Mie,24,1109,JP
+Miyagi,04,1109,JP
+Miyazaki,45,1109,JP
+Nagano,20,1109,JP
+Nagasaki,42,1109,JP
+Nara,29,1109,JP
+Niigata,15,1109,JP
+Oita,44,1109,JP
+Okayama,33,1109,JP
+Okinawa,47,1109,JP
+Osaka,27,1109,JP
+Saga,41,1109,JP
+Saitama,11,1109,JP
+Shiga,25,1109,JP
+Shimane,32,1109,JP
+Shizuoka,22,1109,JP
+Tochigi,09,1109,JP
+Tokushima,36,1109,JP
+Tokyo,13,1109,JP
+Tottori,31,1109,JP
+Toyama,16,1109,JP
+Wakayama,30,1109,JP
+Yamagata,06,1109,JP
+Yamaguchi,35,1109,JP
+Yamanashi,19,1109,JP
+Clarendon,CN,1108,JM
+Hanover,HR,1108,JM
+Kingston,KN,1108,JM
+Portland,PD,1108,JM
+Saint Andrew,AW,1108,JM
+Saint Ann,AN,1108,JM
+Saint Catherine,CE,1108,JM
+Saint Elizabeth,EH,1108,JM
+Saint James,JS,1108,JM
+Saint Mary,MY,1108,JM
+Saint Thomas,TS,1108,JM
+Trelawny,TY,1108,JM
+Westmoreland,WD,1108,JM
+Ajln,AJ,1110,JO
+Al 'Aqaba,AQ,1110,JO
+Al Balqa',BA,1110,JO
+Al Karak,KA,1110,JO
+Al Mafraq,MA,1110,JO
+Amman,AM,1110,JO
+At Tafilah,AT,1110,JO
+Az Zarga,AZ,1110,JO
+Irbid,JR,1110,JO
+Jarash,JA,1110,JO
+Ma'an,MN,1110,JO
+Madaba,MD,1110,JO
+Nairobi Municipality,110,1112,KE
+Coast,300,1112,KE
+North-Eastern Kaskazini Mashariki,500,1112,KE
+Rift Valley,700,1112,KE
+Western Magharibi,900,1112,KE
+Bishkek,GB,1117,KG
+Batken,B,1117,KG
+Chu,C,1117,KG
+Jalal-Abad,J,1117,KG
+Naryn,N,1117,KG
+Osh,O,1117,KG
+Talas,T,1117,KG
+Ysyk-Kol,Y,1117,KG
+Krong Kaeb,23,1037,KH
+Krong Pailin,24,1037,KH
+Xrong Preah Sihanouk,18,1037,KH
+Phnom Penh,12,1037,KH
+Baat Dambang,2,1037,KH
+Banteay Mean Chey,1,1037,KH
+Rampong Chaam,3,1037,KH
+Kampong Chhnang,4,1037,KH
+Kampong Spueu,5,1037,KH
+Kampong Thum,6,1037,KH
+Kampot,7,1037,KH
+Kandaal,8,1037,KH
+Kach Kong,9,1037,KH
+Krachoh,10,1037,KH
+Mondol Kiri,11,1037,KH
+Otdar Mean Chey,22,1037,KH
+Pousaat,15,1037,KH
+Preah Vihear,13,1037,KH
+Prey Veaeng,14,1037,KH
+Rotanak Kiri,16,1037,KH
+Siem Reab,17,1037,KH
+Stueng Traeng,19,1037,KH
+Svaay Rieng,20,1037,KH
+Taakaev,21,1037,KH
+Gilbert Islands,G,1113,KI
+Line Islands,L,1113,KI
+Phoenix Islands,P,1113,KI
+Anjouan Ndzouani,A,1049,KM
+Grande Comore Ngazidja,G,1049,KM
+Moheli Moili,M,1049,KM
+Kaesong-si,KAE,1114,KP
+Nampo-si,NAM,1114,KP
+Pyongyang-ai,PYO,1114,KP
+Chagang-do,CHA,1114,KP
+Hamgyongbuk-do,HAB,1114,KP
+Hamgyongnam-do,HAN,1114,KP
+Hwanghaebuk-do,HWB,1114,KP
+Hwanghaenam-do,HWN,1114,KP
+Kangwon-do,KAN,1114,KP
+Pyonganbuk-do,PYB,1114,KP
+Pyongannam-do,PYN,1114,KP
+Yanggang-do,YAN,1114,KP
+Najin Sonbong-si,NAJ,1114,KP
+Seoul Teugbyeolsi,11,1115,KR
+Busan Gwang'yeogsi,26,1115,KR
+Daegu Gwang'yeogsi,27,1115,KR
+Daejeon Gwang'yeogsi,30,1115,KR
+Gwangju Gwang'yeogsi,29,1115,KR
+Incheon Gwang'yeogsi,28,1115,KR
+Ulsan Gwang'yeogsi,31,1115,KR
+Chungcheongbugdo,43,1115,KR
+Chungcheongnamdo,44,1115,KR
+Gang'weondo,42,1115,KR
+Gyeonggido,41,1115,KR
+Gyeongsangbugdo,47,1115,KR
+Gyeongsangnamdo,48,1115,KR
+Jejudo,49,1115,KR
+Jeonrabugdo,45,1115,KR
+Jeonranamdo,46,1115,KR
+Al Ahmadi,AH,1116,KW
+Al Farwanlyah,FA,1116,KW
+Al Jahrah,JA,1116,KW
+Al Kuwayt,KU,1116,KW
+Hawalli,HA,1116,KW
+Almaty,ALA,1111,KZ
+Astana,AST,1111,KZ
+Almaty oblysy,ALM,1111,KZ
+Aqmola oblysy,AKM,1111,KZ
+Aqtobe oblysy,AKT,1111,KZ
+Atyrau oblyfiy,ATY,1111,KZ
+Batys Quzaqstan oblysy,ZAP,1111,KZ
+Mangghystau oblysy,MAN,1111,KZ
+Ongtustik Quzaqstan oblysy,YUZ,1111,KZ
+Pavlodar oblysy,PAV,1111,KZ
+Qaraghandy oblysy,KAR,1111,KZ
+Qostanay oblysy,KUS,1111,KZ
+Qyzylorda oblysy,KZY,1111,KZ
+Shyghys Quzaqstan oblysy,VOS,1111,KZ
+Soltustik Quzaqstan oblysy,SEV,1111,KZ
+Zhambyl oblysy Zhambylskaya oblast',ZHA,1111,KZ
+Vientiane,VT,1118,LA
+Attapu,AT,1118,LA
+Bokeo,BK,1118,LA
+Bolikhamxai,BL,1118,LA
+Champasak,CH,1118,LA
+Houaphan,HO,1118,LA
+Khammouan,KH,1118,LA
+Louang Namtha,LM,1118,LA
+Louangphabang,LP,1118,LA
+Oudomxai,OU,1118,LA
+Phongsali,PH,1118,LA
+Salavan,SL,1118,LA
+Savannakhet,SV,1118,LA
+Xaignabouli,XA,1118,LA
+Xiasomboun,XN,1118,LA
+Xekong,XE,1118,LA
+Xiangkhoang,XI,1118,LA
+Beirout,BA,1120,LB
+El Begsa,BI,1120,LB
+Jabal Loubnane,JL,1120,LB
+Loubnane ech Chemali,AS,1120,LB
+Loubnane ej Jnoubi,JA,1120,LB
+Nabatiye,NA,1120,LB
+Ampara,52,1199,LK
+Anuradhapura,71,1199,LK
+Badulla,81,1199,LK
+Batticaloa,51,1199,LK
+Colombo,11,1199,LK
+Galle,31,1199,LK
+Gampaha,12,1199,LK
+Hambantota,33,1199,LK
+Jaffna,41,1199,LK
+Kalutara,13,1199,LK
+Kandy,21,1199,LK
+Kegalla,92,1199,LK
+Kilinochchi,42,1199,LK
+Kurunegala,61,1199,LK
+Mannar,43,1199,LK
+Matale,22,1199,LK
+Matara,32,1199,LK
+Monaragala,82,1199,LK
+Mullaittivu,45,1199,LK
+Nuwara Eliya,23,1199,LK
+Polonnaruwa,72,1199,LK
+Puttalum,62,1199,LK
+Ratnapura,91,1199,LK
+Trincomalee,53,1199,LK
+VavunLya,44,1199,LK
+Bomi,BM,1122,LR
+Bong,BG,1122,LR
+Grand Basaa,GB,1122,LR
+Grand Cape Mount,CM,1122,LR
+Grand Gedeh,GG,1122,LR
+Grand Kru,GK,1122,LR
+Lofa,LO,1122,LR
+Margibi,MG,1122,LR
+Maryland,MY,1122,LR
+Montserrado,MO,1122,LR
+Nimba,NI,1122,LR
+Rivercess,RI,1122,LR
+Sinoe,SI,1122,LR
+Berea,D,1121,LS
+Butha-Buthe,B,1121,LS
+Leribe,C,1121,LS
+Mafeteng,E,1121,LS
+Maseru,A,1121,LS
+Mohale's Hoek,F,1121,LS
+Mokhotlong,J,1121,LS
+Qacha's Nek,H,1121,LS
+Quthing,G,1121,LS
+Thaba-Tseka,K,1121,LS
+Alytaus Apskritis,AL,1125,LT
+Kauno Apskritis,KU,1125,LT
+Klaipedos Apskritis,KL,1125,LT
+Marijampoles Apskritis,MR,1125,LT
+Panevezio Apskritis,PN,1125,LT
+Sisuliu Apskritis,SA,1125,LT
+Taurages Apskritis,TA,1125,LT
+Telsiu Apskritis,TE,1125,LT
+Utenos Apskritis,UT,1125,LT
+Vilniaus Apskritis,VL,1125,LT
+Diekirch,D,1126,LU
+GreveNmacher,G,1126,LU
+Aizkraukles Apripkis,AI,1119,LV
+Alkanes Apripkis,AL,1119,LV
+Balvu Apripkis,BL,1119,LV
+Bauskas Apripkis,BU,1119,LV
+Cesu Aprikis,CE,1119,LV
+Daugavpile Apripkis,DA,1119,LV
+Dobeles Apripkis,DO,1119,LV
+Gulbenes Aprlpkis,GU,1119,LV
+Jelgavas Apripkis,JL,1119,LV
+Jekabpils Apripkis,JK,1119,LV
+Kraslavas Apripkis,KR,1119,LV
+Kuldlgas Apripkis,KU,1119,LV
+Limbazu Apripkis,LM,1119,LV
+Liepajas Apripkis,LE,1119,LV
+Ludzas Apripkis,LU,1119,LV
+Madonas Apripkis,MA,1119,LV
+Ogres Apripkis,OG,1119,LV
+Preilu Apripkis,PR,1119,LV
+Rezaknes Apripkis,RE,1119,LV
+Rigas Apripkis,RI,1119,LV
+Saldus Apripkis,SA,1119,LV
+Talsu Apripkis,TA,1119,LV
+Tukuma Apriplcis,TU,1119,LV
+Valkas Apripkis,VK,1119,LV
+Valmieras Apripkis,VM,1119,LV
+Ventspils Apripkis,VE,1119,LV
+Daugavpils,DGV,1119,LV
+Jelgava,JEL,1119,LV
+Jurmala,JUR,1119,LV
+Liepaja,LPX,1119,LV
+Rezekne,REZ,1119,LV
+Riga,RIX,1119,LV
+Ventspils,VEN,1119,LV
+Ajdābiyā,AJ,1123,LY
+Al Buţnān,BU,1123,LY
+Al Hizām al Akhdar,HZ,1123,LY
+Al Jabal al Akhdar,JA,1123,LY
+Al Jifārah,JI,1123,LY
+Al Jufrah,JU,1123,LY
+Al Kufrah,KF,1123,LY
+Al Marj,MJ,1123,LY
+Al Marqab,MB,1123,LY
+Al Qaţrūn,QT,1123,LY
+Al Qubbah,QB,1123,LY
+Al Wāhah,WA,1123,LY
+An Nuqaţ al Khams,NQ,1123,LY
+Ash Shāţi',SH,1123,LY
+Az Zāwiyah,ZA,1123,LY
+Banghāzī,BA,1123,LY
+Banī Walīd,BW,1123,LY
+Darnah,DR,1123,LY
+Ghadāmis,GD,1123,LY
+Gharyān,GR,1123,LY
+Ghāt,GT,1123,LY
+Jaghbūb,JB,1123,LY
+Mişrātah,MI,1123,LY
+Mizdah,MZ,1123,LY
+Murzuq,MQ,1123,LY
+Nālūt,NL,1123,LY
+Sabhā,SB,1123,LY
+Şabrātah Şurmān,SS,1123,LY
+Surt,SR,1123,LY
+Tājūrā' wa an Nawāhī al Arbāh,TN,1123,LY
+Ţarābulus,TB,1123,LY
+Tarhūnah-Masallātah,TM,1123,LY
+Wādī al hayāt,WD,1123,LY
+Yafran-Jādū,YJ,1123,LY
+Agadir,AGD,1146,MA
+Aït Baha,BAH,1146,MA
+Aït Melloul,MEL,1146,MA
+Al Haouz,HAO,1146,MA
+Al Hoceïma,HOC,1146,MA
+Assa-Zag,ASZ,1146,MA
+Azilal,AZI,1146,MA
+Beni Mellal,BEM,1146,MA
+Ben Sllmane,BES,1146,MA
+Berkane,BER,1146,MA
+Boujdour,BOD,1146,MA
+Boulemane,BOM,1146,MA
+Casablanca  [Dar el Beïda],CAS,1146,MA
+Chefchaouene,CHE,1146,MA
+Chichaoua,CHI,1146,MA
+El Hajeb,HAJ,1146,MA
+El Jadida,JDI,1146,MA
+Errachidia,ERR,1146,MA
+Essaouira,ESI,1146,MA
+Es Smara,ESM,1146,MA
+Fès,FES,1146,MA
+Figuig,FIG,1146,MA
+Guelmim,GUE,1146,MA
+Ifrane,IFR,1146,MA
+Jerada,JRA,1146,MA
+Kelaat Sraghna,KES,1146,MA
+Kénitra,KEN,1146,MA
+Khemisaet,KHE,1146,MA
+Khenifra,KHN,1146,MA
+Khouribga,KHO,1146,MA
+Laâyoune (EH),LAA,1146,MA
+Larache,LAP,1146,MA
+Marrakech,MAR,1146,MA
+Meknsès,MEK,1146,MA
+Nador,NAD,1146,MA
+Ouarzazate,OUA,1146,MA
+Oued ed Dahab (EH),OUD,1146,MA
+Oujda,OUJ,1146,MA
+Rabat-Salé,RBA,1146,MA
+Safi,SAF,1146,MA
+Sefrou,SEF,1146,MA
+Settat,SET,1146,MA
+Sidl Kacem,SIK,1146,MA
+Tanger,TNG,1146,MA
+Tan-Tan,TNT,1146,MA
+Taounate,TAO,1146,MA
+Taroudannt,TAR,1146,MA
+Tata,TAT,1146,MA
+Taza,TAZ,1146,MA
+Tétouan,TET,1146,MA
+Tiznit,TIZ,1146,MA
+"Gagauzia, Unitate Teritoriala Autonoma",GA,1142,MD
+Chisinau,CU,1142,MD
+"Stinga Nistrului, unitatea teritoriala din",SN,1142,MD
+Balti,BA,1142,MD
+Cahul,CA,1142,MD
+Edinet,ED,1142,MD
+Lapusna,LA,1142,MD
+Orhei,OR,1142,MD
+Soroca,SO,1142,MD
+Taraclia,TA,1142,MD
+Tighina [Bender],TI,1142,MD
+Ungheni,UN,1142,MD
+Antananarivo,T,1129,MG
+Antsiranana,D,1129,MG
+Fianarantsoa,F,1129,MG
+Mahajanga,M,1129,MG
+Toamasina,A,1129,MG
+Toliara,U,1129,MG
+Ailinglapalap,ALL,1135,MH
+Ailuk,ALK,1135,MH
+Arno,ARN,1135,MH
+Aur,AUR,1135,MH
+Ebon,EBO,1135,MH
+Eniwetok,ENI,1135,MH
+Jaluit,JAL,1135,MH
+Kili,KIL,1135,MH
+Kwajalein,KWA,1135,MH
+Lae,LAE,1135,MH
+Lib,LIB,1135,MH
+Likiep,LIK,1135,MH
+Majuro,MAJ,1135,MH
+Maloelap,MAL,1135,MH
+Mejit,MEJ,1135,MH
+Mili,MIL,1135,MH
+Namorik,NMK,1135,MH
+Namu,NMU,1135,MH
+Rongelap,RON,1135,MH
+Ujae,UJA,1135,MH
+Ujelang,UJL,1135,MH
+Utirik,UTI,1135,MH
+Wotho,WTN,1135,MH
+Wotje,WTJ,1135,MH
+Bamako,BK0,1133,ML
+Gao,7,1133,ML
+Kayes,1,1133,ML
+Kidal,8,1133,ML
+Xoulikoro,2,1133,ML
+Mopti,5,1133,ML
+S69ou,4,1133,ML
+Sikasso,3,1133,ML
+Tombouctou,6,1133,ML
+Ayeyarwady,07,1035,MM
+Bago,02,1035,MM
+Magway,03,1035,MM
+Mandalay,04,1035,MM
+Sagaing,01,1035,MM
+Tanintharyi,05,1035,MM
+Yangon,06,1035,MM
+Chin,14,1035,MM
+Kachin,11,1035,MM
+Kayah,12,1035,MM
+Kayin,13,1035,MM
+Mon,15,1035,MM
+Rakhine,16,1035,MM
+Shan,17,1035,MM
+Ulaanbaatar,1,1144,MN
+Arhangay,073,1144,MN
+Bayanhongor,069,1144,MN
+Bayan-Olgiy,071,1144,MN
+Bulgan,067,1144,MN
+Darhan uul,037,1144,MN
+Dornod,061,1144,MN
+"Dornogov,",063,1144,MN
+DundgovL,059,1144,MN
+Dzavhan,057,1144,MN
+Govi-Altay,065,1144,MN
+Govi-Smber,064,1144,MN
+Hentiy,039,1144,MN
+Hovd,043,1144,MN
+Hovsgol,041,1144,MN
+Omnogovi,053,1144,MN
+Orhon,035,1144,MN
+Ovorhangay,055,1144,MN
+Selenge,049,1144,MN
+Shbaatar,051,1144,MN
+Tov,047,1144,MN
+Uvs,046,1144,MN
+Nouakchott,NKC,1137,MR
+Assaba,03,1137,MR
+Brakna,05,1137,MR
+Dakhlet Nouadhibou,08,1137,MR
+Gorgol,04,1137,MR
+Guidimaka,10,1137,MR
+Hodh ech Chargui,01,1137,MR
+Hodh el Charbi,02,1137,MR
+Inchiri,12,1137,MR
+Tagant,09,1137,MR
+Tiris Zemmour,11,1137,MR
+Trarza,06,1137,MR
+Beau Bassin-Rose Hill,BR,1138,MU
+Curepipe,CU,1138,MU
+Port Louis,PU,1138,MU
+Quatre Bornes,QB,1138,MU
+Vacosa-Phoenix,VP,1138,MU
+Black River,BL,1138,MU
+Flacq,FL,1138,MU
+Grand Port,GP,1138,MU
+Moka,MO,1138,MU
+Pamplemousses,PA,1138,MU
+Plaines Wilhems,PW,1138,MU
+Riviere du Rempart,RP,1138,MU
+Savanne,SA,1138,MU
+Agalega Islands,AG,1138,MU
+Cargados Carajos Shoals,CC,1138,MU
+Rodrigues Island,RO,1138,MU
+Male,MLE,1132,MV
+Alif,02,1132,MV
+Baa,20,1132,MV
+Dhaalu,17,1132,MV
+Faafu,14,1132,MV
+Gaaf Alif,27,1132,MV
+Gaefu Dhaalu,28,1132,MV
+Gnaviyani,29,1132,MV
+Haa Alif,07,1132,MV
+Haa Dhaalu,23,1132,MV
+Kaafu,26,1132,MV
+Laamu,05,1132,MV
+Lhaviyani,03,1132,MV
+Meemu,12,1132,MV
+Noonu,25,1132,MV
+Raa,13,1132,MV
+Seenu,01,1132,MV
+Shaviyani,24,1132,MV
+Thaa,08,1132,MV
+Vaavu,04,1132,MV
+Balaka,BA,1130,MW
+Blantyre,BL,1130,MW
+Chikwawa,CK,1130,MW
+Chiradzulu,CR,1130,MW
+Chitipa,CT,1130,MW
+Dedza,DE,1130,MW
+Dowa,DO,1130,MW
+Karonga,KR,1130,MW
+Kasungu,KS,1130,MW
+Likoma Island,LK,1130,MW
+Lilongwe,LI,1130,MW
+Machinga,MH,1130,MW
+Mangochi,MG,1130,MW
+Mchinji,MC,1130,MW
+Mulanje,MU,1130,MW
+Mwanza,MW,1130,MW
+Mzimba,MZ,1130,MW
+Nkhata Bay,NB,1130,MW
+Nkhotakota,NK,1130,MW
+Nsanje,NS,1130,MW
+Ntcheu,NU,1130,MW
+Ntchisi,NI,1130,MW
+Phalomba,PH,1130,MW
+Rumphi,RU,1130,MW
+Salima,SA,1130,MW
+Thyolo,TH,1130,MW
+Zomba,ZO,1130,MW
+Aguascalientes,AGU,1140,MX
+Baja California,BCN,1140,MX
+Baja California Sur,BCS,1140,MX
+Campeche,CAM,1140,MX
+Coahuila,COA,1140,MX
+Colima,COL,1140,MX
+Chiapas,CHP,1140,MX
+Chihuahua,CHH,1140,MX
+Durango,DUR,1140,MX
+Guanajuato,GUA,1140,MX
+Guerrero,GRO,1140,MX
+Hidalgo,HID,1140,MX
+Jalisco,JAL,1140,MX
+Mexico,MEX,1140,MX
+Michoacin,MIC,1140,MX
+Morelos,MOR,1140,MX
+Nayarit,NAY,1140,MX
+Nuevo Leon,NLE,1140,MX
+Oaxaca,OAX,1140,MX
+Puebla,PUE,1140,MX
+Queretaro,QUE,1140,MX
+Quintana Roo,ROO,1140,MX
+San Luis Potosi,SLP,1140,MX
+Sinaloa,SIN,1140,MX
+Sonora,SON,1140,MX
+Tabasco,TAB,1140,MX
+Tamaulipas,TAM,1140,MX
+Tlaxcala,TLA,1140,MX
+Veracruz,VER,1140,MX
+Yucatan,YUC,1140,MX
+Zacatecas,ZAC,1140,MX
+Wilayah Persekutuan Kuala Lumpur,14,1131,MY
+Wilayah Persekutuan Labuan,15,1131,MY
+Wilayah Persekutuan Putrajaya,16,1131,MY
+Johor,01,1131,MY
+Kedah,02,1131,MY
+Kelantan,03,1131,MY
+Melaka,04,1131,MY
+Negeri Sembilan,05,1131,MY
+Pahang,06,1131,MY
+Perak,08,1131,MY
+Perlis,09,1131,MY
+Pulau Pinang,07,1131,MY
+Sabah,12,1131,MY
+Sarawak,13,1131,MY
+Selangor,10,1131,MY
+Terengganu,11,1131,MY
+Maputo,MPM,1147,MZ
+Cabo Delgado,P,1147,MZ
+Gaza,G,1147,MZ
+Inhambane,I,1147,MZ
+Manica,B,1147,MZ
+Numpula,N,1147,MZ
+Niaaea,A,1147,MZ
+Sofala,S,1147,MZ
+Tete,T,1147,MZ
+Zambezia,Q,1147,MZ
+Caprivi,CA,1148,NA
+Erongo,ER,1148,NA
+Hardap,HA,1148,NA
+Karas,KA,1148,NA
+Khomae,KH,1148,NA
+Kunene,KU,1148,NA
+Ohangwena,OW,1148,NA
+Okavango,OK,1148,NA
+Omaheke,OH,1148,NA
+Omusati,OS,1148,NA
+Oshana,ON,1148,NA
+Oshikoto,OT,1148,NA
+Otjozondjupa,OD,1148,NA
+Niamey,8,1156,NE
+Agadez,1,1156,NE
+Diffa,2,1156,NE
+Dosso,3,1156,NE
+Maradi,4,1156,NE
+Tahoua,S,1156,NE
+Tillaberi,6,1156,NE
+Zinder,7,1156,NE
+Abuja Capital Territory,FC,1157,NG
+Abia,AB,1157,NG
+Adamawa,AD,1157,NG
+Akwa Ibom,AK,1157,NG
+Anambra,AN,1157,NG
+Bauchi,BA,1157,NG
+Bayelsa,BY,1157,NG
+Benue,BE,1157,NG
+Borno,BO,1157,NG
+Cross River,CR,1157,NG
+Delta,DE,1157,NG
+Ebonyi,EB,1157,NG
+Edo,ED,1157,NG
+Ekiti,EK,1157,NG
+Enugu,EN,1157,NG
+Gombe,GO,1157,NG
+Imo,IM,1157,NG
+Jigawa,JI,1157,NG
+Kaduna,KD,1157,NG
+Kano,KN,1157,NG
+Katsina,KT,1157,NG
+Kebbi,KE,1157,NG
+Kogi,KO,1157,NG
+Kwara,KW,1157,NG
+Lagos,LA,1157,NG
+Nassarawa,NA,1157,NG
+Niger,NI,1157,NG
+Ogun,OG,1157,NG
+Ondo,ON,1157,NG
+Osun,OS,1157,NG
+Oyo,OY,1157,NG
+Rivers,RI,1157,NG
+Sokoto,SO,1157,NG
+Taraba,TA,1157,NG
+Yobe,YO,1157,NG
+Zamfara,ZA,1157,NG
+Boaco,BO,1155,NI
+Carazo,CA,1155,NI
+Chinandega,CI,1155,NI
+Chontales,CO,1155,NI
+Esteli,ES,1155,NI
+Jinotega,JI,1155,NI
+Leon,LE,1155,NI
+Madriz,MD,1155,NI
+Managua,MN,1155,NI
+Masaya,MS,1155,NI
+Matagalpa,MT,1155,NI
+Nueva Segovia,NS,1155,NI
+Rio San Juan,SJ,1155,NI
+Rivas,RI,1155,NI
+Atlantico Norte,AN,1155,NI
+Atlantico Sur,AS,1155,NI
+Drente,DR,1152,NL
+Flevoland,FL,1152,NL
+Friesland,FR,1152,NL
+Gelderland,GL,1152,NL
+Groningen,GR,1152,NL
+Noord-Brabant,NB,1152,NL
+Noord-Holland,NH,1152,NL
+Overijssel,OV,1152,NL
+Utrecht,UT,1152,NL
+Zuid-Holland,ZH,1152,NL
+Zeeland,ZL,1152,NL
+Akershus,02,1161,NO
+Aust-Agder,09,1161,NO
+Buskerud,06,1161,NO
+Finumark,20,1161,NO
+Hedmark,04,1161,NO
+Hordaland,12,1161,NO
+Mire og Romsdal,15,1161,NO
+Nordland,18,1161,NO
+Nord-Trindelag,17,1161,NO
+Oppland,05,1161,NO
+Oslo,03,1161,NO
+Rogaland,11,1161,NO
+Sogn og Fjordane,14,1161,NO
+Sir-Trindelag,16,1161,NO
+Telemark,06,1161,NO
+Troms,19,1161,NO
+Vest-Agder,10,1161,NO
+Vestfold,07,1161,NO
+Ostfold,01,1161,NO
+Jan Mayen,22,1161,NO
+Svalbard,21,1161,NO
+Auckland,AUK,1154,NZ
+Bay of Plenty,BOP,1154,NZ
+Canterbury,CAN,1154,NZ
+Gisborne,GIS,1154,NZ
+Hawkes Bay,HKB,1154,NZ
+Manawatu-Wanganui,MWT,1154,NZ
+Marlborough,MBH,1154,NZ
+Nelson,NSN,1154,NZ
+Northland,NTL,1154,NZ
+Otago,OTA,1154,NZ
+Southland,STL,1154,NZ
+Taranaki,TKI,1154,NZ
+Tasman,TAS,1154,NZ
+waikato,WKO,1154,NZ
+Wellington,WGN,1154,NZ
+West Coast,WTC,1154,NZ
+Ad Dakhillyah,DA,1162,OM
+Al Batinah,BA,1162,OM
+Al Janblyah,JA,1162,OM
+Al Wusta,WU,1162,OM
+Ash Sharqlyah,SH,1162,OM
+Az Zahirah,ZA,1162,OM
+Masqat,MA,1162,OM
+Musandam,MU,1162,OM
+Bocas del Toro,1,1166,PA
+Cocle,2,1166,PA
+Chiriqui,4,1166,PA
+Darien,5,1166,PA
+Herrera,6,1166,PA
+Loa Santoa,7,1166,PA
+Panama,8,1166,PA
+Veraguas,9,1166,PA
+Comarca de San Blas,Q,1166,PA
+El Callao,CAL,1169,PE
+Ancash,ANC,1169,PE
+Apurimac,APU,1169,PE
+Arequipa,ARE,1169,PE
+Ayacucho,AYA,1169,PE
+Cajamarca,CAJ,1169,PE
+Cuzco,CUS,1169,PE
+Huancavelica,HUV,1169,PE
+Huanuco,HUC,1169,PE
+Ica,ICA,1169,PE
+Junin,JUN,1169,PE
+La Libertad,LAL,1169,PE
+Lambayeque,LAM,1169,PE
+Lima,LIM,1169,PE
+Loreto,LOR,1169,PE
+Madre de Dios,MDD,1169,PE
+Moquegua,MOQ,1169,PE
+Pasco,PAS,1169,PE
+Piura,PIU,1169,PE
+Puno,PUN,1169,PE
+San Martin,SAM,1169,PE
+Tacna,TAC,1169,PE
+Tumbes,TUM,1169,PE
+Ucayali,UCA,1169,PE
+National Capital District (Port Moresby),NCD,1167,PG
+Chimbu,CPK,1167,PG
+Eastern Highlands,EHG,1167,PG
+East New Britain,EBR,1167,PG
+East Sepik,ESW,1167,PG
+Enga,EPW,1167,PG
+Gulf,GPK,1167,PG
+Madang,MPM,1167,PG
+Manus,MRL,1167,PG
+Milne Bay,MBA,1167,PG
+Morobe,MPL,1167,PG
+New Ireland,NIK,1167,PG
+North Solomons,NSA,1167,PG
+Santaun,SAN,1167,PG
+Southern Highlands,SHM,1167,PG
+Western Highlands,WHM,1167,PG
+West New Britain,WBK,1167,PG
+Abra,ABR,1170,PH
+Agusan del Norte,AGN,1170,PH
+Agusan del Sur,AGS,1170,PH
+Aklan,AKL,1170,PH
+Albay,ALB,1170,PH
+Antique,ANT,1170,PH
+Apayao,APA,1170,PH
+Aurora,AUR,1170,PH
+Basilan,BAS,1170,PH
+Batasn,BAN,1170,PH
+Batanes,BTN,1170,PH
+Batangas,BTG,1170,PH
+Benguet,BEN,1170,PH
+Biliran,BIL,1170,PH
+Bohol,BOH,1170,PH
+Bukidnon,BUK,1170,PH
+Bulacan,BUL,1170,PH
+Cagayan,CAG,1170,PH
+Camarines Norte,CAN,1170,PH
+Camarines Sur,CAS,1170,PH
+Camiguin,CAM,1170,PH
+Capiz,CAP,1170,PH
+Catanduanes,CAT,1170,PH
+Cavite,CAV,1170,PH
+Cebu,CEB,1170,PH
+Compostela Valley,COM,1170,PH
+Davao,DAV,1170,PH
+Davao del Sur,DAS,1170,PH
+Davao Oriental,DAO,1170,PH
+Eastern Samar,EAS,1170,PH
+Guimaras,GUI,1170,PH
+Ifugao,IFU,1170,PH
+Ilocos Norte,ILN,1170,PH
+Ilocos Sur,ILS,1170,PH
+Iloilo,ILI,1170,PH
+Isabela,ISA,1170,PH
+Kalinga-Apayso,KAL,1170,PH
+Laguna,LAG,1170,PH
+Lanao del Norte,LAN,1170,PH
+Lanao del Sur,LAS,1170,PH
+La Union,LUN,1170,PH
+Leyte,LEY,1170,PH
+Maguindanao,MAG,1170,PH
+Marinduque,MAD,1170,PH
+Masbate,MAS,1170,PH
+Mindoro Occidental,MDC,1170,PH
+Mindoro Oriental,MDR,1170,PH
+Misamis Occidental,MSC,1170,PH
+Misamis Oriental,MSR,1170,PH
+Mountain Province,MOU,1170,PH
+Negroe Occidental,NEC,1170,PH
+Negros Oriental,NER,1170,PH
+North Cotabato,NCO,1170,PH
+Northern Samar,NSA,1170,PH
+Nueva Ecija,NUE,1170,PH
+Nueva Vizcaya,NUV,1170,PH
+Palawan,PLW,1170,PH
+Pampanga,PAM,1170,PH
+Pangasinan,PAN,1170,PH
+Quezon,QUE,1170,PH
+Quirino,QUI,1170,PH
+Rizal,RIZ,1170,PH
+Romblon,ROM,1170,PH
+Sarangani,SAR,1170,PH
+Siquijor,SIG,1170,PH
+Sorsogon,SOR,1170,PH
+South Cotabato,SCO,1170,PH
+Southern Leyte,SLE,1170,PH
+Sultan Kudarat,SUK,1170,PH
+Sulu,SLU,1170,PH
+Surigao del Norte,SUN,1170,PH
+Surigao del Sur,SUR,1170,PH
+Tarlac,TAR,1170,PH
+Tawi-Tawi,TAW,1170,PH
+Western Samar,WSA,1170,PH
+Zambales,ZMB,1170,PH
+Zamboanga del Norte,ZAN,1170,PH
+Zamboanga del Sur,ZAS,1170,PH
+Zamboanga Sibiguey,ZSI,1170,PH
+Islamabad,IS,1163,PK
+Baluchistan (en),BA,1163,PK
+North-West Frontier,NW,1163,PK
+Sind (en),SD,1163,PK
+Federally Administered Tribal Aresa,TA,1163,PK
+Azad Rashmir,JK,1163,PK
+Northern Areas,NA,1163,PK
+Aveiro,01,1173,PT
+Beja,02,1173,PT
+Braga,03,1173,PT
+Braganca,04,1173,PT
+Castelo Branco,05,1173,PT
+Colmbra,06,1173,PT
+Ovora,07,1173,PT
+Faro,08,1173,PT
+Guarda,09,1173,PT
+Leiria,10,1173,PT
+Lisboa,11,1173,PT
+Portalegre,12,1173,PT
+Porto,13,1173,PT
+Santarem,14,1173,PT
+Setubal,15,1173,PT
+Viana do Castelo,16,1173,PT
+Vila Real,17,1173,PT
+Viseu,18,1173,PT
+Regiao Autonoma dos Acores,20,1173,PT
+Regiao Autonoma da Madeira,30,1173,PT
+Asuncion,ASU,1168,PY
+Alto Paraguay,16,1168,PY
+Alto Parana,10,1168,PY
+Amambay,13,1168,PY
+Boqueron,19,1168,PY
+Caeguazu,5,1168,PY
+Caazapl,6,1168,PY
+Canindeyu,14,1168,PY
+Concepcion,1,1168,PY
+Cordillera,3,1168,PY
+Guaira,4,1168,PY
+Itapua,7,1168,PY
+Miaiones,8,1168,PY
+Neembucu,12,1168,PY
+Paraguari,9,1168,PY
+Presidente Hayes,15,1168,PY
+San Pedro,2,1168,PY
+Ad Dawhah,DA,1175,QA
+Al Ghuwayriyah,GH,1175,QA
+Al Jumayliyah,JU,1175,QA
+Al Khawr,KH,1175,QA
+Al Wakrah,WA,1175,QA
+Ar Rayyan,RA,1175,QA
+Jariyan al Batnah,JB,1175,QA
+Madinat ash Shamal,MS,1175,QA
+Umm Salal,US,1175,QA
+Bucuresti,B,1176,RO
+Alba,AB,1176,RO
+Arad,AR,1176,RO
+Arges,AG,1176,RO
+Bacau,BC,1176,RO
+Bihor,BH,1176,RO
+Bistrita-Nasaud,BN,1176,RO
+Boto'ani,BT,1176,RO
+Bra'ov,BV,1176,RO
+Braila,BR,1176,RO
+Buzau,BZ,1176,RO
+Caras-Severin,CS,1176,RO
+Ca la ras'i,CL,1176,RO
+Cluj,CJ,1176,RO
+Constant'a,CT,1176,RO
+Covasna,CV,1176,RO
+Dambovit'a,DB,1176,RO
+Dolj,DJ,1176,RO
+Galat'i,GL,1176,RO
+Giurgiu,GR,1176,RO
+Gorj,GJ,1176,RO
+Harghita,HR,1176,RO
+Hunedoara,HD,1176,RO
+Ialomit'a,IL,1176,RO
+Ias'i,IS,1176,RO
+Ilfov,IF,1176,RO
+Maramures,MM,1176,RO
+Mehedint'i,MH,1176,RO
+Mures,MS,1176,RO
+Neamt,NT,1176,RO
+Olt,OT,1176,RO
+Prahova,PH,1176,RO
+Satu Mare,SM,1176,RO
+Sa laj,SJ,1176,RO
+Sibiu,SB,1176,RO
+Suceava,SV,1176,RO
+Teleorman,TR,1176,RO
+Timis,TM,1176,RO
+Tulcea,TL,1176,RO
+Vaslui,VS,1176,RO
+Valcea,VL,1176,RO
+Vrancea,VN,1176,RO
+"Adygeya, Respublika",AD,1177,RU
+"Altay, Respublika",AL,1177,RU
+"Bashkortostan, Respublika",BA,1177,RU
+"Buryatiya, Respublika",BU,1177,RU
+Chechenskaya Respublika,CE,1177,RU
+Chuvashskaya Respublika,CU,1177,RU
+"Dagestan, Respublika",DA,1177,RU
+Ingushskaya Respublika,IN,1177,RU
+Kabardino-Balkarskaya,KB,1177,RU
+"Kalmykiya, Respublika",KL,1177,RU
+Karachayevo-Cherkesskaya Respublika,KC,1177,RU
+"Kareliya, Respublika",KR,1177,RU
+"Khakasiya, Respublika",KK,1177,RU
+"Komi, Respublika",KO,1177,RU
+"Mariy El, Respublika",ME,1177,RU
+"Mordoviya, Respublika",MO,1177,RU
+"Sakha, Respublika [Yakutiya]",SA,1177,RU
+"Severnaya Osetiya, Respublika",SE,1177,RU
+"Tatarstan, Respublika",TA,1177,RU
+"Tyva, Respublika [Tuva]",TY,1177,RU
+Udmurtskaya Respublika,UD,1177,RU
+Altayskiy kray,ALT,1177,RU
+Khabarovskiy kray,KHA,1177,RU
+Krasnodarskiy kray,KDA,1177,RU
+Krasnoyarskiy kray,KYA,1177,RU
+Primorskiy kray,PRI,1177,RU
+Stavropol'skiy kray,STA,1177,RU
+Amurskaya oblast',AMU,1177,RU
+Arkhangel'skaya oblast',ARK,1177,RU
+Astrakhanskaya oblast',AST,1177,RU
+Belgorodskaya oblast',BEL,1177,RU
+Bryanskaya oblast',BRY,1177,RU
+Chelyabinskaya oblast',CHE,1177,RU
+Chitinskaya oblast',CHI,1177,RU
+Irkutskaya oblast',IRK,1177,RU
+Ivanovskaya oblast',IVA,1177,RU
+Kaliningradskaya oblast',KGD,1177,RU
+Kaluzhskaya oblast',KLU,1177,RU
+Kamchatskaya oblast',KAM,1177,RU
+Kemerovskaya oblast',KEM,1177,RU
+Kirovskaya oblast',KIR,1177,RU
+Kostromskaya oblast',KOS,1177,RU
+Kurganskaya oblast',KGN,1177,RU
+Kurskaya oblast',KRS,1177,RU
+Leningradskaya oblast',LEN,1177,RU
+Lipetskaya oblast',LIP,1177,RU
+Magadanskaya oblast',MAG,1177,RU
+Moskovskaya oblast',MOS,1177,RU
+Murmanskaya oblast',MUR,1177,RU
+Nizhegorodskaya oblast',NIZ,1177,RU
+Novgorodskaya oblast',NGR,1177,RU
+Novosibirskaya oblast',NVS,1177,RU
+Omskaya oblast',OMS,1177,RU
+Orenburgskaya oblast',ORE,1177,RU
+Orlovskaya oblast',ORL,1177,RU
+Penzenskaya oblast',PNZ,1177,RU
+Permskaya oblast',PER,1177,RU
+Pskovskaya oblast',PSK,1177,RU
+Rostovskaya oblast',ROS,1177,RU
+Ryazanskaya oblast',RYA,1177,RU
+Sakhalinskaya oblast',SAK,1177,RU
+Samarskaya oblast',SAM,1177,RU
+Saratovskaya oblast',SAR,1177,RU
+Smolenskaya oblast',SMO,1177,RU
+Sverdlovskaya oblast',SVE,1177,RU
+Tambovskaya oblast',TAM,1177,RU
+Tomskaya oblast',TOM,1177,RU
+Tul'skaya oblast',TUL,1177,RU
+Tverskaya oblast',TVE,1177,RU
+Tyumenskaya oblast',TYU,1177,RU
+Ul'yanovskaya oblast',ULY,1177,RU
+Vladimirskaya oblast',VLA,1177,RU
+Volgogradskaya oblast',VGG,1177,RU
+Vologodskaya oblast',VLG,1177,RU
+Voronezhskaya oblast',VOR,1177,RU
+Yaroslavskaya oblast',YAR,1177,RU
+Moskva,MOW,1177,RU
+Sankt-Peterburg,SPE,1177,RU
+Yevreyskaya avtonomnaya oblast',YEV,1177,RU
+Aginskiy Buryatskiy avtonomnyy,AGB,1177,RU
+Chukotskiy avtonomnyy okrug,CHU,1177,RU
+Evenkiyskiy avtonomnyy okrug,EVE,1177,RU
+Khanty-Mansiyskiy avtonomnyy okrug,KHM,1177,RU
+Komi-Permyatskiy avtonomnyy okrug,KOP,1177,RU
+Koryakskiy avtonomnyy okrug,KOR,1177,RU
+Nenetskiy avtonomnyy okrug,NEN,1177,RU
+Taymyrskiy (Dolgano-Nenetskiy),TAY,1177,RU
+Ust'-Ordynskiy Buryatskiy,UOB,1177,RU
+Yamalo-Nenetskiy avtonomnyy okrug,YAN,1177,RU
+Butare,C,1178,RW
+Byumba,I,1178,RW
+Cyangugu,E,1178,RW
+Gikongoro,D,1178,RW
+Gisenyi,G,1178,RW
+Gitarama,B,1178,RW
+Kibungo,J,1178,RW
+Kibuye,F,1178,RW
+Kigali-Rural Kigali y' Icyaro,K,1178,RW
+Kigali-Ville Kigali Ngari,L,1178,RW
+Mutara,M,1178,RW
+Ruhengeri,H,1178,RW
+Al Batah,11,1187,SA
+"Al H,udd ash Shamallyah",08,1187,SA
+Al Jawf,12,1187,SA
+Al Madinah,03,1187,SA
+Al Qasim,05,1187,SA
+Ar Riyad,01,1187,SA
+Asir,14,1187,SA
+Ha'il,06,1187,SA
+Jlzan,09,1187,SA
+Makkah,02,1187,SA
+Najran,10,1187,SA
+Tabuk,07,1187,SA
+Capital Territory (Honiara),CT,1194,SB
+Guadalcanal,GU,1194,SB
+Isabel,IS,1194,SB
+Makira,MK,1194,SB
+Malaita,ML,1194,SB
+Temotu,TE,1194,SB
+A'ali an Nil,23,1200,SD
+Al Bah al Ahmar,26,1200,SD
+Al Buhayrat,18,1200,SD
+Al Jazirah,07,1200,SD
+Al Khartum,03,1200,SD
+Al Qadarif,06,1200,SD
+Al Wahdah,22,1200,SD
+An Nil,04,1200,SD
+An Nil al Abyaq,08,1200,SD
+An Nil al Azraq,24,1200,SD
+Ash Shamallyah,01,1200,SD
+Bahr al Jabal,17,1200,SD
+Gharb al Istiwa'iyah,16,1200,SD
+Gharb Ba~r al Ghazal,14,1200,SD
+Gharb Darfur,12,1200,SD
+Gharb Kurdufan,10,1200,SD
+Janub Darfur,11,1200,SD
+Janub Rurdufan,13,1200,SD
+Jnqall,20,1200,SD
+Kassala,05,1200,SD
+Shamal Batr al Ghazal,15,1200,SD
+Shamal Darfur,02,1200,SD
+Shamal Kurdufan,09,1200,SD
+Sharq al Istiwa'iyah,19,1200,SD
+Sinnar,25,1200,SD
+Warab,21,1200,SD
+Blekinge lan,K,1204,SE
+Dalarnas lan,W,1204,SE
+Gotlands lan,I,1204,SE
+Gavleborge lan,X,1204,SE
+Hallands lan,N,1204,SE
+Jamtlande lan,Z,1204,SE
+Jonkopings lan,F,1204,SE
+Kalmar lan,H,1204,SE
+Kronoberge lan,G,1204,SE
+Norrbottena lan,BD,1204,SE
+Skane lan,M,1204,SE
+Stockholms lan,AB,1204,SE
+Sodermanlands lan,D,1204,SE
+Uppsala lan,C,1204,SE
+Varmlanda lan,S,1204,SE
+Vasterbottens lan,AC,1204,SE
+Vasternorrlands lan,Y,1204,SE
+Vastmanlanda lan,U,1204,SE
+Vastra Gotalands lan,Q,1204,SE
+Orebro lan,T,1204,SE
+Ostergotlands lan,E,1204,SE
+Saint Helena,SH,1180,SH
+Ascension,AC,1180,SH
+Tristan da Cunha,TA,1180,SH
+Ajdovscina,001,1193,SI
+Beltinci,002,1193,SI
+Benedikt,148,1193,SI
+Bistrica ob Sotli,149,1193,SI
+Bled,003,1193,SI
+Bloke,150,1193,SI
+Bohinj,004,1193,SI
+Borovnica,005,1193,SI
+Bovec,006,1193,SI
+Braslovce,151,1193,SI
+Brda,007,1193,SI
+Brezovica,008,1193,SI
+Brezica,009,1193,SI
+Cankova,152,1193,SI
+Celje,011,1193,SI
+Cerklje na Gorenjskem,012,1193,SI
+Cerknica,013,1193,SI
+Cerkno,014,1193,SI
+Cerkvenjak,153,1193,SI
+Crensovci,015,1193,SI
+Crna na Koroskem,016,1193,SI
+Crnomelj,017,1193,SI
+Destrnik,018,1193,SI
+Divaca,019,1193,SI
+Dobje,154,1193,SI
+Dobrepolje,020,1193,SI
+Dobrna,155,1193,SI
+Dobrova-Polhov Gradec,021,1193,SI
+Dobrovnik,156,1193,SI
+Dol pri Ljubljani,022,1193,SI
+Dolenjske Toplice,157,1193,SI
+Domzale,023,1193,SI
+Dornava,024,1193,SI
+Dravograd,025,1193,SI
+Duplek,026,1193,SI
+Gorenja vas-Poljane,027,1193,SI
+Gorsnica,028,1193,SI
+Gornja Radgona,029,1193,SI
+Gornji Grad,030,1193,SI
+Gornji Petrovci,031,1193,SI
+Grad,158,1193,SI
+Grosuplje,032,1193,SI
+Hajdina,159,1193,SI
+Hoce-Slivnica,160,1193,SI
+Hodos,161,1193,SI
+Jorjul,162,1193,SI
+Hrastnik,034,1193,SI
+Hrpelje-Kozina,035,1193,SI
+Idrija,036,1193,SI
+Ig,037,1193,SI
+IIrska Bistrica,038,1193,SI
+Ivancna Gorica,039,1193,SI
+Izola,040,1193,SI
+Jesenice,041,1193,SI
+Jezersko,163,1193,SI
+Jursinci,042,1193,SI
+Kamnik,043,1193,SI
+Kanal,044,1193,SI
+Kidricevo,045,1193,SI
+Kobarid,046,1193,SI
+Kobilje,047,1193,SI
+Jovevje,048,1193,SI
+Komen,049,1193,SI
+Komenda,164,1193,SI
+Koper,050,1193,SI
+Kostel,165,1193,SI
+Kozje,051,1193,SI
+Kranj,052,1193,SI
+Kranjska Gora,053,1193,SI
+Krizevci,166,1193,SI
+Krsko,054,1193,SI
+Kungota,055,1193,SI
+Kuzma,056,1193,SI
+Lasko,057,1193,SI
+Lenart,058,1193,SI
+Lendava,059,1193,SI
+Litija,060,1193,SI
+Ljubljana,061,1193,SI
+Ljubno,062,1193,SI
+Ljutomer,063,1193,SI
+Logatec,064,1193,SI
+Loska dolina,065,1193,SI
+Loski Potok,066,1193,SI
+Lovrenc na Pohorju,167,1193,SI
+Luce,067,1193,SI
+Lukovica,068,1193,SI
+Majsperk,069,1193,SI
+Maribor,070,1193,SI
+Markovci,168,1193,SI
+Medvode,071,1193,SI
+Menges,072,1193,SI
+Metlika,073,1193,SI
+Mezica,074,1193,SI
+Miklavz na Dravskern polju,169,1193,SI
+Miren-Kostanjevica,075,1193,SI
+Mirna Pec,170,1193,SI
+Mislinja,076,1193,SI
+Moravce,077,1193,SI
+Moravske Toplice,078,1193,SI
+Mozirje,079,1193,SI
+Murska Sobota,080,1193,SI
+Muta,081,1193,SI
+Naklo,082,1193,SI
+Nazarje,083,1193,SI
+Nova Gorica,084,1193,SI
+Nova mesto,085,1193,SI
+Sveta Ana,181,1193,SI
+Sveti Andraz v Slovenskih goricah,182,1193,SI
+Sveti Jurij,116,1193,SI
+Salovci,033,1193,SI
+Sempeter-Vrtojba,183,1193,SI
+Sencur,117,1193,SI
+Sentilj,118,1193,SI
+Sentjernej,119,1193,SI
+Sentjur pri Celju,120,1193,SI
+Skocjan,121,1193,SI
+Skofja Loka,122,1193,SI
+Skoftjica,123,1193,SI
+Smarje pri Jelsah,124,1193,SI
+Smartno ob Paki,125,1193,SI
+Smartno pri Litiji,194,1193,SI
+Sostanj,126,1193,SI
+Store,127,1193,SI
+Tabor,184,1193,SI
+Tisina,010,1193,SI
+Tolmin,128,1193,SI
+Trbovje,129,1193,SI
+Trebnje,130,1193,SI
+Trnovska vas,185,1193,SI
+Trzic,131,1193,SI
+Trzin,186,1193,SI
+Turnisce,132,1193,SI
+Velenje,133,1193,SI
+Velika Polana,187,1193,SI
+Velika Lasce,134,1193,SI
+Verzej,188,1193,SI
+Videm,135,1193,SI
+Vipava,136,1193,SI
+Vitanje,137,1193,SI
+Vojnik,138,1193,SI
+Vransko,189,1193,SI
+Vrhnika,140,1193,SI
+Vuzenica,141,1193,SI
+Zagorje ob Savi,142,1193,SI
+Zavrc,143,1193,SI
+Zrece,144,1193,SI
+Zalec,190,1193,SI
+Zelezniki,146,1193,SI
+Zetale,191,1193,SI
+Ziri,147,1193,SI
+Zirovnica,192,1193,SI
+Zuzemberk,193,1193,SI
+Banskobystrický kraj,BC,1192,SK
+Bratislavský kraj,BL,1192,SK
+Košický kraj,KI,1192,SK
+Nitriansky kraj,NJ,1192,SK
+Prešovský kraj,PV,1192,SK
+Trenčiansky kraj,TC,1192,SK
+Trnavský kraj,TA,1192,SK
+Žilinský kraj,ZI,1192,SK
+Western Area (Freetown),W,1190,SL
+Dakar,DK,1188,SN
+Diourbel,DB,1188,SN
+Fatick,FK,1188,SN
+Kaolack,KL,1188,SN
+Kolda,KD,1188,SN
+Louga,LG,1188,SN
+Matam,MT,1188,SN
+Saint-Louis,SL,1188,SN
+Tambacounda,TC,1188,SN
+Thies,TH,1188,SN
+Ziguinchor,ZG,1188,SN
+Awdal,AW,1195,SO
+Bakool,BK,1195,SO
+Banaadir,BN,1195,SO
+Bay,BY,1195,SO
+Galguduud,GA,1195,SO
+Gedo,GE,1195,SO
+Hiirsan,HI,1195,SO
+Jubbada Dhexe,JD,1195,SO
+Jubbada Hoose,JH,1195,SO
+Mudug,MU,1195,SO
+Nugaal,NU,1195,SO
+Saneag,SA,1195,SO
+Shabeellaha Dhexe,SD,1195,SO
+Shabeellaha Hoose,SH,1195,SO
+Sool,SO,1195,SO
+Togdheer,TO,1195,SO
+Woqooyi Galbeed,WO,1195,SO
+Brokopondo,BR,1201,SR
+Commewijne,CM,1201,SR
+Coronie,CR,1201,SR
+Marowijne,MA,1201,SR
+Nickerie,NI,1201,SR
+Paramaribo,PM,1201,SR
+Saramacca,SA,1201,SR
+Sipaliwini,SI,1201,SR
+Wanica,WA,1201,SR
+Principe,P,1207,ST
+Sao Tome,S,1207,ST
+Ahuachapan,AH,1066,SV
+Cabanas,CA,1066,SV
+Cuscatlan,CU,1066,SV
+Chalatenango,CH,1066,SV
+Morazan,MO,1066,SV
+San Miguel,SM,1066,SV
+San Salvador,SS,1066,SV
+Santa Ana,SA,1066,SV
+San Vicente,SV,1066,SV
+Sonsonate,SO,1066,SV
+Usulutan,US,1066,SV
+Al Hasakah,HA,1206,SY
+Al Ladhiqiyah,LA,1206,SY
+Al Qunaytirah,QU,1206,SY
+Ar Raqqah,RA,1206,SY
+As Suwayda',SU,1206,SY
+Dar'a,DR,1206,SY
+Dayr az Zawr,DY,1206,SY
+Dimashq,DI,1206,SY
+Halab,HL,1206,SY
+Hamah,HM,1206,SY
+Jim',HI,1206,SY
+Idlib,ID,1206,SY
+Rif Dimashq,RD,1206,SY
+Tarts,TA,1206,SY
+Hhohho,HH,1203,SZ
+Lubombo,LU,1203,SZ
+Manzini,MA,1203,SZ
+Shiselweni,SH,1203,SZ
+Batha,BA,1043,TD
+Biltine,BI,1043,TD
+Borkou-Ennedi-Tibesti,BET,1043,TD
+Chari-Baguirmi,CB,1043,TD
+Guera,GR,1043,TD
+Kanem,KA,1043,TD
+Lac,LC,1043,TD
+Logone-Occidental,LO,1043,TD
+Logone-Oriental,LR,1043,TD
+Mayo-Kebbi,MK,1043,TD
+Moyen-Chari,MC,1043,TD
+Ouaddai,OD,1043,TD
+Salamat,SA,1043,TD
+Tandjile,TA,1043,TD
+Kara,K,1214,TG
+Maritime (Region),M,1214,TG
+Savannes,S,1214,TG
+Krung Thep Maha Nakhon Bangkok,10,1211,TH
+Phatthaya,S,1211,TH
+Amnat Charoen,37,1211,TH
+Ang Thong,15,1211,TH
+Buri Ram,31,1211,TH
+Chachoengsao,24,1211,TH
+Chai Nat,18,1211,TH
+Chaiyaphum,36,1211,TH
+Chanthaburi,22,1211,TH
+Chiang Mai,50,1211,TH
+Chiang Rai,57,1211,TH
+Chon Buri,20,1211,TH
+Chumphon,86,1211,TH
+Kalasin,46,1211,TH
+Kamphasng Phet,62,1211,TH
+Kanchanaburi,71,1211,TH
+Khon Kaen,40,1211,TH
+Krabi,81,1211,TH
+Lampang,52,1211,TH
+Lamphun,51,1211,TH
+Loei,42,1211,TH
+Lop Buri,16,1211,TH
+Mae Hong Son,58,1211,TH
+Maha Sarakham,44,1211,TH
+Mukdahan,49,1211,TH
+Nakhon Nayok,26,1211,TH
+Nakhon Pathom,73,1211,TH
+Nakhon Phanom,48,1211,TH
+Nakhon Ratchasima,30,1211,TH
+Nakhon Sawan,60,1211,TH
+Nakhon Si Thammarat,80,1211,TH
+Nan,55,1211,TH
+Narathiwat,96,1211,TH
+Nong Bua Lam Phu,39,1211,TH
+Nong Khai,43,1211,TH
+Nonthaburi,12,1211,TH
+Pathum Thani,13,1211,TH
+Pattani,94,1211,TH
+Phangnga,82,1211,TH
+Phatthalung,93,1211,TH
+Phayao,56,1211,TH
+Phetchabun,67,1211,TH
+Phetchaburi,76,1211,TH
+Phichit,66,1211,TH
+Phitsanulok,65,1211,TH
+Phrae,54,1211,TH
+Phra Nakhon Si Ayutthaya,14,1211,TH
+Phaket,83,1211,TH
+Prachin Buri,25,1211,TH
+Prachuap Khiri Khan,77,1211,TH
+Ranong,85,1211,TH
+Ratchaburi,70,1211,TH
+Rayong,21,1211,TH
+Roi Et,45,1211,TH
+Sa Kaeo,27,1211,TH
+Sakon Nakhon,47,1211,TH
+Samut Prakan,11,1211,TH
+Samut Sakhon,74,1211,TH
+Samut Songkhram,75,1211,TH
+Saraburi,19,1211,TH
+Satun,91,1211,TH
+Sing Buri,17,1211,TH
+Si Sa Ket,33,1211,TH
+Songkhla,90,1211,TH
+Sukhothai,64,1211,TH
+Suphan Buri,72,1211,TH
+Surat Thani,84,1211,TH
+Surin,32,1211,TH
+Tak,63,1211,TH
+Trang,92,1211,TH
+Trat,23,1211,TH
+Ubon Ratchathani,34,1211,TH
+Udon Thani,41,1211,TH
+Uthai Thani,61,1211,TH
+Uttaradit,53,1211,TH
+Yala,95,1211,TH
+Yasothon,35,1211,TH
+Sughd,SU,1209,TJ
+Khatlon,KT,1209,TJ
+Gorno-Badakhshan,GB,1209,TJ
+Ahal,A,1220,TM
+Balkan,B,1220,TM
+Dasoguz,D,1220,TM
+Lebap,L,1220,TM
+Mary,M,1220,TM
+Béja,31,1218,TN
+Ben Arous,13,1218,TN
+Bizerte,23,1218,TN
+Gabès,81,1218,TN
+Gafsa,71,1218,TN
+Jendouba,32,1218,TN
+Kairouan,41,1218,TN
+Rasserine,42,1218,TN
+Kebili,73,1218,TN
+L'Ariana,12,1218,TN
+Le Ref,33,1218,TN
+Mahdia,53,1218,TN
+La Manouba,14,1218,TN
+Medenine,82,1218,TN
+Moneatir,52,1218,TN
+Naboul,21,1218,TN
+Sfax,61,1218,TN
+Sidi Bouxid,43,1218,TN
+Siliana,34,1218,TN
+Sousse,51,1218,TN
+Tataouine,83,1218,TN
+Tozeur,72,1218,TN
+Tunis,11,1218,TN
+Zaghouan,22,1218,TN
+Adana,01,1219,TR
+Ad yaman,02,1219,TR
+Afyon,03,1219,TR
+Ag r,04,1219,TR
+Aksaray,68,1219,TR
+Amasya,05,1219,TR
+Ankara,06,1219,TR
+Antalya,07,1219,TR
+Ardahan,75,1219,TR
+Artvin,08,1219,TR
+Aydin,09,1219,TR
+Bal kesir,10,1219,TR
+Bartin,74,1219,TR
+Batman,72,1219,TR
+Bayburt,69,1219,TR
+Bilecik,11,1219,TR
+Bingol,12,1219,TR
+Bitlis,13,1219,TR
+Bolu,14,1219,TR
+Burdur,15,1219,TR
+Bursa,16,1219,TR
+Canakkale,17,1219,TR
+Cankir,18,1219,TR
+Corum,19,1219,TR
+Denizli,20,1219,TR
+Diyarbakir,21,1219,TR
+Duzce,81,1219,TR
+Edirne,22,1219,TR
+Elazig,23,1219,TR
+Erzincan,24,1219,TR
+Erzurum,25,1219,TR
+Eskis'ehir,26,1219,TR
+Gaziantep,27,1219,TR
+Giresun,28,1219,TR
+Gms'hane,29,1219,TR
+Hakkari,30,1219,TR
+Hatay,31,1219,TR
+Igidir,76,1219,TR
+Isparta,32,1219,TR
+Icel,33,1219,TR
+Istanbul,34,1219,TR
+Izmir,35,1219,TR
+Kahramanmaras,46,1219,TR
+Karabk,78,1219,TR
+Karaman,70,1219,TR
+Kars,36,1219,TR
+Kastamonu,37,1219,TR
+Kayseri,38,1219,TR
+Kirikkale,71,1219,TR
+Kirklareli,39,1219,TR
+Kirs'ehir,40,1219,TR
+Kilis,79,1219,TR
+Kocaeli,41,1219,TR
+Konya,42,1219,TR
+Ktahya,43,1219,TR
+Malatya,44,1219,TR
+Manisa,45,1219,TR
+Mardin,47,1219,TR
+Mugila,48,1219,TR
+Mus,49,1219,TR
+Nevs'ehir,50,1219,TR
+Nigide,51,1219,TR
+Ordu,52,1219,TR
+Osmaniye,80,1219,TR
+Rize,53,1219,TR
+Sakarya,54,1219,TR
+Samsun,55,1219,TR
+Siirt,56,1219,TR
+Sinop,57,1219,TR
+Sivas,58,1219,TR
+S'anliurfa,63,1219,TR
+S'rnak,73,1219,TR
+Tekirdag,59,1219,TR
+Tokat,60,1219,TR
+Trabzon,61,1219,TR
+Tunceli,62,1219,TR
+Us'ak,64,1219,TR
+Van,65,1219,TR
+Yalova,77,1219,TR
+Yozgat,66,1219,TR
+Zonguldak,67,1219,TR
+Couva-Tabaquite-Talparo,CTT,1217,TT
+Diego Martin,DMN,1217,TT
+Eastern Tobago,ETO,1217,TT
+Penal-Debe,PED,1217,TT
+Princes Town,PRT,1217,TT
+Rio Claro-Mayaro,RCM,1217,TT
+Sangre Grande,SGE,1217,TT
+San Juan-Laventille,SJL,1217,TT
+Siparia,SIP,1217,TT
+Tunapuna-Piarco,TUP,1217,TT
+Western Tobago,WTO,1217,TT
+Arima,ARI,1217,TT
+Chaguanas,CHA,1217,TT
+Point Fortin,PTF,1217,TT
+Port of Spain,POS,1217,TT
+San Fernando,SFO,1217,TT
+Aileu,AL,1063,TL
+Ainaro,AN,1063,TL
+Bacucau,BA,1063,TL
+Bobonaro,BO,1063,TL
+Cova Lima,CO,1063,TL
+Dili,DI,1063,TL
+Ermera,ER,1063,TL
+Laulem,LA,1063,TL
+Liquica,LI,1063,TL
+Manatuto,MT,1063,TL
+Manafahi,MF,1063,TL
+Oecussi,OE,1063,TL
+Viqueque,VI,1063,TL
+Changhua,CHA,1208,TW
+Chiayi,CYQ,1208,TW
+Hsinchu,HSQ,1208,TW
+Hualien,HUA,1208,TW
+Ilan,ILA,1208,TW
+Kaohsiung,KHQ,1208,TW
+Miaoli,MIA,1208,TW
+Nantou,NAN,1208,TW
+Penghu,PEN,1208,TW
+Pingtung,PIF,1208,TW
+Taichung,TXQ,1208,TW
+Tainan,TNQ,1208,TW
+Taipei,TPQ,1208,TW
+Taitung,TTT,1208,TW
+Taoyuan,TAO,1208,TW
+Yunlin,YUN,1208,TW
+Keelung,KEE,1208,TW
+Arusha,01,1210,TZ
+Dar-es-Salaam,02,1210,TZ
+Dodoma,03,1210,TZ
+Iringa,04,1210,TZ
+Kagera,05,1210,TZ
+Kaskazini Pemba,06,1210,TZ
+Kaskazini Unguja,07,1210,TZ
+Xigoma,08,1210,TZ
+Kilimanjaro,09,1210,TZ
+Rusini Pemba,10,1210,TZ
+Kusini Unguja,11,1210,TZ
+Lindi,12,1210,TZ
+Manyara,26,1210,TZ
+Mara,13,1210,TZ
+Mbeya,14,1210,TZ
+Mjini Magharibi,15,1210,TZ
+Morogoro,16,1210,TZ
+Mtwara,17,1210,TZ
+Pwani,19,1210,TZ
+Rukwa,20,1210,TZ
+Ruvuma,21,1210,TZ
+Shinyanga,22,1210,TZ
+Singida,23,1210,TZ
+Tabora,24,1210,TZ
+Tanga,25,1210,TZ
+Cherkas'ka Oblast',71,1224,UA
+Chernihivs'ka Oblast',74,1224,UA
+Chernivets'ka Oblast',77,1224,UA
+Dnipropetrovs'ka Oblast',12,1224,UA
+Donets'ka Oblast',14,1224,UA
+Ivano-Frankivs'ka Oblast',26,1224,UA
+Kharkivs'ka Oblast',63,1224,UA
+Khersons'ka Oblast',65,1224,UA
+Khmel'nyts'ka Oblast',68,1224,UA
+Kirovohrads'ka Oblast',35,1224,UA
+Kyivs'ka Oblast',32,1224,UA
+Luhans'ka Oblast',09,1224,UA
+L'vivs'ka Oblast',46,1224,UA
+Mykolaivs'ka Oblast',48,1224,UA
+Odes 'ka Oblast',51,1224,UA
+Poltavs'ka Oblast',53,1224,UA
+Rivnens'ka Oblast',56,1224,UA
+Sums 'ka Oblast',59,1224,UA
+Ternopil's'ka Oblast',61,1224,UA
+Vinnyts'ka Oblast',05,1224,UA
+Volyos'ka Oblast',07,1224,UA
+Zakarpats'ka Oblast',21,1224,UA
+Zaporiz'ka Oblast',23,1224,UA
+Zhytomyrs'ka Oblast',18,1224,UA
+Respublika Krym,43,1224,UA
+Kyiv,30,1224,UA
+Sevastopol,40,1224,UA
+Adjumani,301,1223,UG
+Apac,302,1223,UG
+Arua,303,1223,UG
+Bugiri,201,1223,UG
+Bundibugyo,401,1223,UG
+Bushenyi,402,1223,UG
+Busia,202,1223,UG
+Gulu,304,1223,UG
+Hoima,403,1223,UG
+Iganga,203,1223,UG
+Jinja,204,1223,UG
+Kabale,404,1223,UG
+Kabarole,405,1223,UG
+Kaberamaido,213,1223,UG
+Kalangala,101,1223,UG
+Kampala,102,1223,UG
+Kamuli,205,1223,UG
+Kamwenge,413,1223,UG
+Kanungu,414,1223,UG
+Kapchorwa,206,1223,UG
+Kasese,406,1223,UG
+Katakwi,207,1223,UG
+Kayunga,112,1223,UG
+Kibaale,407,1223,UG
+Kiboga,103,1223,UG
+Kisoro,408,1223,UG
+Kitgum,305,1223,UG
+Kotido,306,1223,UG
+Kumi,208,1223,UG
+Kyenjojo,415,1223,UG
+Lira,307,1223,UG
+Luwero,104,1223,UG
+Masaka,105,1223,UG
+Masindi,409,1223,UG
+Mayuge,214,1223,UG
+Mbale,209,1223,UG
+Mbarara,410,1223,UG
+Moroto,308,1223,UG
+Moyo,309,1223,UG
+Mpigi,106,1223,UG
+Mubende,107,1223,UG
+Mukono,108,1223,UG
+Nakapiripirit,311,1223,UG
+Nakasongola,109,1223,UG
+Nebbi,310,1223,UG
+Ntungamo,411,1223,UG
+Pader,312,1223,UG
+Pallisa,210,1223,UG
+Rakai,110,1223,UG
+Rukungiri,412,1223,UG
+Sembabule,111,1223,UG
+Sironko,215,1223,UG
+Soroti,211,1223,UG
+Tororo,212,1223,UG
+Wakiso,113,1223,UG
+Yumbe,313,1223,UG
+Baker Island,81,1227,UM
+Howland Island,84,1227,UM
+Jarvis Island,86,1227,UM
+Johnston Atoll,67,1227,UM
+Kingman Reef,89,1227,UM
+Midway Islands,71,1227,UM
+Navassa Island,76,1227,UM
+Palmyra Atoll,95,1227,UM
+Wake Ialand,79,1227,UM
+Artigsa,AR,1229,UY
+Canelones,CA,1229,UY
+Cerro Largo,CL,1229,UY
+Colonia,CO,1229,UY
+Durazno,DU,1229,UY
+Flores,FS,1229,UY
+Lavalleja,LA,1229,UY
+Maldonado,MA,1229,UY
+Montevideo,MO,1229,UY
+Paysandu,PA,1229,UY
+Rivera,RV,1229,UY
+Rocha,RO,1229,UY
+Salto,SA,1229,UY
+Soriano,SO,1229,UY
+Tacuarembo,TA,1229,UY
+Treinta y Tres,TT,1229,UY
+Toshkent (city),TK,1230,UZ
+Qoraqalpogiston Respublikasi,QR,1230,UZ
+Andijon,AN,1230,UZ
+Buxoro,BU,1230,UZ
+Farg'ona,FA,1230,UZ
+Jizzax,JI,1230,UZ
+Khorazm,KH,1230,UZ
+Namangan,NG,1230,UZ
+Navoiy,NW,1230,UZ
+Qashqadaryo,QA,1230,UZ
+Samarqand,SA,1230,UZ
+Sirdaryo,SI,1230,UZ
+Surxondaryo,SU,1230,UZ
+Toshkent,TO,1230,UZ
+Xorazm,XO,1230,UZ
+Diatrito Federal,A,1232,VE
+Anzoategui,B,1232,VE
+Apure,C,1232,VE
+Aragua,D,1232,VE
+Barinas,E,1232,VE
+Carabobo,G,1232,VE
+Cojedes,H,1232,VE
+Falcon,I,1232,VE
+Guarico,J,1232,VE
+Lara,K,1232,VE
+Merida,L,1232,VE
+Miranda,M,1232,VE
+Monagas,N,1232,VE
+Nueva Esparta,O,1232,VE
+Portuguesa,P,1232,VE
+Tachira,S,1232,VE
+Trujillo,T,1232,VE
+Vargas,X,1232,VE
+Yaracuy,U,1232,VE
+Zulia,V,1232,VE
+Delta Amacuro,Y,1232,VE
+Dependencias Federales,W,1232,VE
+An Giang,44,1233,VN
+Ba Ria - Vung Tau,43,1233,VN
+Bac Can,53,1233,VN
+Bac Giang,54,1233,VN
+Bac Lieu,55,1233,VN
+Bac Ninh,56,1233,VN
+Ben Tre,50,1233,VN
+Binh Dinh,31,1233,VN
+Binh Duong,57,1233,VN
+Binh Phuoc,58,1233,VN
+Binh Thuan,40,1233,VN
+Ca Mau,59,1233,VN
+Can Tho,48,1233,VN
+Cao Bang,04,1233,VN
+"Da Nang, thanh pho",60,1233,VN
+Dong Nai,39,1233,VN
+Dong Thap,45,1233,VN
+Gia Lai,30,1233,VN
+Ha Giang,03,1233,VN
+Ha Nam,63,1233,VN
+"Ha Noi, thu do",64,1233,VN
+Ha Tay,15,1233,VN
+Ha Tinh,23,1233,VN
+Hai Duong,61,1233,VN
+"Hai Phong, thanh pho",62,1233,VN
+Hoa Binh,14,1233,VN
+"Ho Chi Minh, thanh pho [Sai Gon]",65,1233,VN
+Hung Yen,66,1233,VN
+Khanh Hoa,34,1233,VN
+Kien Giang,47,1233,VN
+Kon Tum,28,1233,VN
+Lai Chau,01,1233,VN
+Lam Dong,35,1233,VN
+Lang Son,09,1233,VN
+Lao Cai,02,1233,VN
+Long An,41,1233,VN
+Nam Dinh,67,1233,VN
+Nghe An,22,1233,VN
+Ninh Binh,18,1233,VN
+Ninh Thuan,36,1233,VN
+Phu Tho,68,1233,VN
+Phu Yen,32,1233,VN
+Quang Binh,24,1233,VN
+Quang Nam,27,1233,VN
+Quang Ngai,29,1233,VN
+Quang Ninh,13,1233,VN
+Quang Tri,25,1233,VN
+Soc Trang,52,1233,VN
+Son La,05,1233,VN
+Tay Ninh,37,1233,VN
+Thai Binh,20,1233,VN
+Thai Nguyen,69,1233,VN
+Thanh Hoa,21,1233,VN
+Thua Thien-Hue,26,1233,VN
+Tien Giang,46,1233,VN
+Tra Vinh,51,1233,VN
+Tuyen Quang,07,1233,VN
+Vinh Long,49,1233,VN
+Vinh Phuc,70,1233,VN
+Yen Bai,06,1233,VN
+Malampa,MAP,1231,VU
+Penama,PAM,1231,VU
+Sanma,SAM,1231,VU
+Shefa,SEE,1231,VU
+Tafea,TAE,1231,VU
+Torba,TOB,1231,VU
+A'ana,AA,1185,WS
+Aiga-i-le-Tai,AL,1185,WS
+Atua,AT,1185,WS
+Fa'aaaleleaga,FA,1185,WS
+Gaga'emauga,GE,1185,WS
+Gagaifomauga,GI,1185,WS
+Palauli,PA,1185,WS
+Satupa'itea,SA,1185,WS
+Tuamasaga,TU,1185,WS
+Va'a-o-Fonoti,VF,1185,WS
+Vaisigano,VS,1185,WS
+Crna Gora,CG,1238,CS
+Srbija,SR,1238,CS
+Kosovo-Metohija,KM,1238,CS
+Vojvodina,VO,1238,CS
+Abyan,AB,1237,YE
+Adan,AD,1237,YE
+Ad Dali,DA,1237,YE
+Al Bayda',BA,1237,YE
+Al Hudaydah,MU,1237,YE
+Al Mahrah,MR,1237,YE
+Al Mahwit,MW,1237,YE
+Amran,AM,1237,YE
+Dhamar,DH,1237,YE
+Hadramawt,HD,1237,YE
+Hajjah,HJ,1237,YE
+Ibb,IB,1237,YE
+Lahij,LA,1237,YE
+Ma'rib,MA,1237,YE
+Sa'dah,SD,1237,YE
+San'a',SN,1237,YE
+Shabwah,SH,1237,YE
+Ta'izz,TA,1237,YE
+Eastern Cape,EC,1196,ZA
+Free State,FS,1196,ZA
+Gauteng,GT,1196,ZA
+Kwazulu-Natal,NL,1196,ZA
+Mpumalanga,MP,1196,ZA
+Northern Cape,NC,1196,ZA
+Limpopo,NP,1196,ZA
+Western Cape,WC,1196,ZA
+Copperbelt,08,1239,ZM
+Luapula,04,1239,ZM
+Lusaka,09,1239,ZM
+North-Western,06,1239,ZM
+Bulawayo,BU,1240,ZW
+Harare,HA,1240,ZW
+Manicaland,MA,1240,ZW
+Mashonaland Central,MC,1240,ZW
+Mashonaland East,ME,1240,ZW
+Mashonaland West,MW,1240,ZW
+Masvingo,MV,1240,ZW
+Matabeleland North,MN,1240,ZW
+Matabeleland South,MS,1240,ZW
+Midlands,MI,1240,ZW
+South Karelia,SK,1075,FI
+South Ostrobothnia,SO,1075,FI
+Etelä-Savo,ES,1075,FI
+Häme,HH,1075,FI
+Itä-Uusimaa,IU,1075,FI
+Kainuu,KA,1075,FI
+Central Ostrobothnia,CO,1075,FI
+Central Finland,CF,1075,FI
+Kymenlaakso,KY,1075,FI
+Lapland,LA,1075,FI
+Tampere Region,TR,1075,FI
+Ostrobothnia,OB,1075,FI
+North Karelia,NK,1075,FI
+Nothern Ostrobothnia,NO,1075,FI
+Northern Savo,NS,1075,FI
+Päijät-Häme,PH,1075,FI
+Satakunta,SK,1075,FI
+Uusimaa,UM,1075,FI
+South-West Finland,SW,1075,FI
+Åland,AL,1075,FI
+Limburg,LI,1152,NL
+Central and Western,CW,1098,HK
+Eastern,EA,1098,HK
+Southern,SO,1098,HK
+Wan Chai,WC,1098,HK
+Kowloon City,KC,1098,HK
+Kwun Tong,KU,1098,HK
+Sham Shui Po,SS,1098,HK
+Wong Tai Sin,WT,1098,HK
+Yau Tsim Mong,YT,1098,HK
+Islands,IS,1098,HK
+Kwai Tsing,KI,1098,HK
+North,NO,1098,HK
+Sai Kung,SK,1098,HK
+Sha Tin,ST,1098,HK
+Tai Po,TP,1098,HK
+Tsuen Wan,TW,1098,HK
+Tuen Mun,TM,1098,HK
+Yuen Long,YL,1098,HK
+Manchester,MR,1108,JM
+Al Manāmah (Al ‘Āşimah),13,1016,BH
+Al Janūbīyah,14,1016,BH
+Al Wusţá,16,1016,BH
+Ash Shamālīyah,17,1016,BH
+Jenin,_A,1165,PS
+Tubas,_B,1165,PS
+Tulkarm,_C,1165,PS
+Nablus,_D,1165,PS
+Qalqilya,_E,1165,PS
+Salfit,_F,1165,PS
+Ramallah and Al-Bireh,_G,1165,PS
+Jericho,_H,1165,PS
+Jerusalem,_I,1165,PS
+Bethlehem,_J,1165,PS
+Hebron,_K,1165,PS
+North Gaza,_L,1165,PS
+Gaza,_M,1165,PS
+Deir el-Balah,_N,1165,PS
+Khan Yunis,_O,1165,PS
+Rafah,_P,1165,PS
+Brussels,BRU,1020,BE
+Distrito Federal,DIF,1140,MX
+North West,NW,1196,ZA
+Tyne and Wear,TWR,1226,GB
+Greater Manchester,GTM,1226,GB
+Co Tyrone,TYR,1226,GB
+West Yorkshire,WYK,1226,GB
+South Yorkshire,SYK,1226,GB
+Merseyside,MSY,1226,GB
+Berkshire,BRK,1226,GB
+West Midlands,WMD,1226,GB
+West Glamorgan,WGM,1226,GB
+Greater London,LON,1226,GB
+Carbonia-Iglesias,CI,1107,IT
+Olbia-Tempio,OT,1107,IT
+Medio Campidano,VS,1107,IT
+Ogliastra,OG,1107,IT
+Bonaire,BON,1151,AN
+Curaçao,CUR,1151,AN
+Saba,SAB,1151,AN
+St. Eustatius,EUA,1151,AN
+St. Maarten,SXM,1151,AN
+Jura,39,1076,FR
+Barletta-Andria-Trani,Bar,1107,IT
+Fermo,Fer,1107,IT
+Monza e Brianza,Mon,1107,IT
+Clwyd,CWD,1226,GB
+Dyfed,DFD,1226,GB
+South Glamorgan,SGM,1226,GB
+Artibonite,AR,1094,HT
+Centre,CE,1094,HT
+Nippes,NI,1094,HT
+Nord,ND,1094,HT
