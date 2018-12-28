@@ -14,7 +14,5 @@ Currently, the files cover:
 ## Industries
 To be added later
 
-## Sources
-
 ## License
 Please refer to above sources for applicable license and usage terms. Otherwise, [MIT License](https://opensource.org/licenses/MIT) applies.
